@@ -21,7 +21,7 @@ from sklearn.preprocessing import LabelEncoder
 
 #     features = tfidf_vectorizer.transform(input_df["body"])
 #     predictions = model.predict(features)
-#     input_df["category"] = label_encoder.inverse_transform(predictions)
+#     input_df["category"] = label_encoder.inverse_transformgit(predictions)
 #     outpit_df = input_df[["id", "category"]]
 #     outpit_df.to_csv("result.csv", index=False)
 #     return FileResponse("result.csv")
