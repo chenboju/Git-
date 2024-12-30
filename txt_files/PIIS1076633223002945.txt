@@ -1,0 +1,269 @@
+Original Investigation
+ Utility of Ultrasonography for Diagnosing and Differentiating Periapical Granuloma from
+Radicular Cyst
+Wang Jia, PhD1,2, Huang Jing1,2, Gong Xia, PhD2, Ding Angang2, Zhou Wei, PhD2, Zhang Pengfei2, Ran Shujun, PhD2, Mao Mengying, PhD2, Huang Zhengwei, PhD1,2, Gu Shensheng, PhD2
+
+
+
+
+INTRODUCTION
+
+eriapical or periradicular lesions usually originate from microorganisms residing in the root canal as a barrier that restricts microbial infection and prevents
+its spread into the surrounding tissues (1,2). The clinical findings of these lesions are marked by localized inflammation,
+
+resulting in periapical tissue destruction and bone resorption. Most periradicular lesions are classified as granulomas, cysts, or dental abscesses, all of which radiographically appear as translucencies around the root apex (3). Predicting the exact extent of periapical lesions is of great importance in planning nonsurgical or surgical treatment (4). Conventionally, en- dodontic treatment is considered the most effective method
+
+
+
+
+Acad Radiol 2023; 30:2329¡V2339
+From the Department of Endodontics, Shanghai Ninth People¡¦s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology, No. 639, Zhizaoju Road, Shanghai 200011, China (J.W., J.H., W.Z., P.Z., S.R., M.M., Z.H., S.G.); Department of Ultrasound, Shanghai Ninth People¡¦s Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China (X.G., A.D.). Received February 17, 2023; revised May 31, 2023; accepted May 31, 2023. Address correspondence to: S.G. e-mail: gss2m9h@126.com
+1 These authors contributed equally to this work.
+2 Present address: Ninth People¡¦s Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.
+? 2023 The Association of University Radiologists. Published by Elsevier Inc. This is an open access article under the CC BY-NC-ND license (http://creative- commons.org/licenses/by-nc-nd/4.0/).
+https://doi.org/10.1016/j.acra.2023.05.039
+
+
+
+
+for resolving periapical granulomas or pocket cysts (5), whereas true cysts require surgical enucleation as supplemental treatment (6). It was recently suggested that some periapical cysts can heal with root canal treatment alone (7); however, the tentative diagnosis of the cysts in that study was based only on radiographic findings, and the hypothesis was based on clinical outcomes alone. Histopathological diagnosis of peria- pical lesions is considered the gold standard to confirm the pathology of a cystic or noncystic lesion; however, it requires an invasive procedure. Thus, clinicians should accurately de- termine the nature of periapical lesions preoperatively using a noninvasive approach.
+¡@Periapical radiography and cone beam computed tomo- graphy (CBCT) have been proposed as preoperative screening tools. Generally, the presence of a well-defined outline and large lucent lesion on radiographs is associated with a higher likelihood of a periradicular cyst (6). However, weak overall agreement exists between the presence of a well-defined radiolucent lesion and the histological diagnosis of a cyst, especially for lesions with a minimum average diameter of 5 mm (8,9). High-resolution ultrasonography (US), an economical and convenient modality for obtaining reproducible images, has been used to identify periapical lesions (10¡V13). US is noninvasive, nonionizing, and pro- vides live information regarding the position, features, and vascularity of tissues (14). US is based on pulse-echo signals, which are reflected back to the probe based on differences in tissue density (11). This enables US to play a key role in the preliminary differential diagnosis of periapical pathologies. Evidence suggests that US enhanced with Doppler flow- metry can be used to distinguish periapical lesions of en- dodontic origin (10,15).
+¡@Although a series of cases presented high diagnostic scores, such as sensitivity, specificity, and accuracy (9,15), using US as a diagnostic tool for endodontic-derived periapical lesions, the recruited population was limited (12,16). Moreover, most studies did not include ¡§periapical cysts with infection¡¨ (so-called mixed lesions) as a mixed echo-graphic profile of a cyst and a granuloma (15,17). Further diagnostic studies with rigorous designs are needed to reduce bias and appropriately assess the feasibility of using US for clinical assessments. Hence, this report aimed to investigate the concordance between ultrasonographically and histopathologically diag- nosed apical pathologies of endodontic origin enucleated during periapical surgery.
+
+
+MATERIALS AND METHODS
+Ethics
+This pilot study was conducted in accordance with the in- stitutional ethics committee and registered with the Chinese Clinical Trials Registry (detailed information is provided in ¡§Ethical approval¡¨). The recruitment and experimental proce- dures were performed between May 2020 and February 2023. Informed consent was obtained from all participants.
+
+Eligibility Criteria
+Patients diagnosed with periapical lesions based on clinical and radiographic findings and scheduled for apical surgery were recruited. In total, 109 patients were prospectively enrolled. The participants¡¦ mean age was 34.98 years (range, 18-73 years).
+The inclusion criteria were as follows:
+
+1. Healthy patients aged ? 18 years.
+2. Well-defined periapical radiolucency ? 5 mm (based on CBCT scans).
+
+The exclusion criteria were as follows:
+
+1. Patients with contraindications for apicoectomy (such as combined endodontic-periodontic lesions, unfavorable crown/root ratio, vertical root fractures, anatomic con- traindications, medically compromised conditions, and limited access to surgery).
+2. Patients unwilling to participate in the study.
+
+Radiographic Examination
+Digital intraoral periapical radiographs were obtained for all patients using Orthophos XG (Sirona, Bensheim, Germany). The paralleling technique was used with a 32-bit color/64- ?m pixel size for image recording. The scanner was operated at a voltage of 65 kVp and current of 7 mA. Radiographic analyses were conducted using the ImageJ software (version 1.8.0; National Institutes of Health) to measure the dimen- sions of all lesions on a millimeter scale.
+¡@All preoperative CBCT images were obtained using the Carestream 9000 3D imaging system (Carestream Dental, Atlanta, GA). Limited field-of-view (FOV) CBCT was performed at 90 kVp and 7 mA, with 0.1-mm voxel size, a 55 ¡Ñ 50 mm limited FOV. The maximum width, depth, and height of the lesions were measured using the built-in soft- ware. CBCT images were also used to obtain information regarding the adjacent anatomical structures and for pre- surgical assessments.
+¡@All measurements were performed by three independent examiners. A lesion was included only if all three examiners determined it to have a maximum diameter ? 5 mm.
+
+Ultrasound Examination
+US procedures (including equipment setup and scanning) were performed by an experienced sonographer with ex- pertise in head-and-neck imaging. All included teeth were subjected to US examination using a Voluson E8 (GE Healthcare, Vienna, Austria) with a linear transducer (probe 11L-D) or a MyLab Class C (Esaote, Florence, Italy) ma- chine with a linear transducer (probe LA523) operating at a frequency of 7-12 MHz. The probe was covered with a layer of ultrasound gel and placed extraorally against the skin corresponding to the apical area of the involved tooth. To
+
+
+
+
+identify the lesion area better, the position of the probe was moved slightly and changed several times to obtain an ade- quate and representative number of transverse (axial plane) and longitudinal (sagittal plane) scans. The lesions were evaluated using B-mode and color Doppler imaging. B- mode US generates two-dimensional cross-sectional grays- cale images, where the echo signal reflects the echotexture (homogeneous or heterogeneous), echogenicity (anechoic, hyperechoic, isoechoic, or hypoechoic), and lesion margin. Compared to the echogenicity of adjacent soft tissues, the examined tissues as a completely black appearance with no internal echoes were termed ¡§anechoic¡¨; if characterized by low echogenic, the lesions were called ¡§hypoechic.¡¨ When an area has high echo intensity, it was termed ¡§hyper- echoic¡¨ (18).
+¡@In color Doppler US, the B-mode display was overlaid with additional color pixels to assess the presence and features of blood flow at a given time. Color velocity imaging was performed using a constant velocity scale ( ¡Ó 3 cm/s) (19). Red color indicated flow toward the transducer, and blue indicated flow away from the transducer. Still images were acquired for all scans, and representative images were re- corded and stored in a picture archiving and communication system. Internal vascularization was estimated by counting the number of vessels in the lesion on color Doppler ima- ging. According to Adler grade classifications, the lesions of which blood vessels could be detected are classified as Adler I and viewed as "rich vascular supply" (20).
+¡@The US images were submitted to three experienced ul- trasonographers, who had no prior knowledge of the pa- tients¡¦ clinical symptoms. All cases were retrospectively assessed by the three observers, and a consensus diagnosis was reached.
+¡@An ultrasonographic diagnosis was established based on the following criteria (17):
+
+1. Granuloma: a poorly defined area, which can contain both hypoechoic and hyperechoic areas on B-mode imaging, with a rich vascular supply on color Doppler examination.
+2. Cystic lesion: a hypoechoic well-contoured cavity with anechoic to hypoechoic areas on B-mode imaging and no evidence of internal vascularization on color Doppler examination.
+3. Periapical cyst with infection (mixed lesion): mixed echogenicity with echogenic and anechoic areas and focal anechoic areas on B-mode imaging, with vascularity in some areas on color Doppler examination.
+
+Histopathological Examination
+Periapical surgery was performed by four operators under a surgical microscope following routine clinical protocols (21). Briefly, after local anesthesia, a flap was elevated, and os- teotomy was performed to expose the root tip. Then, 3 mm of the root from the apex was resected following debridement.
+
+Root-end obturation was completed using the iRoot BP Plus (Innovative Bioceramix Inc., Vancouver, Canada) after com- pletion of root-end retrograde preparations extending 3 mm into the canal space using ultrasonic microtips.
+¡@Subsequently, the pathological periapical tissue was sent for histopathological analysis. The specimens consisted of the entire periapical lesion without the resected root tip. The samples were fixed in 10% buffered formalin and processed for routine histopathological examination to confirm the diagnosis. Serial sections of 5 ?m were obtained and stained with hematoxylin-eosin. The sliced sections were analyzed by a senior pathologist specialized in stomatology, who was blinded to the radiographic and ultrasonic findings, as well as the clinical symptoms of the patients. The cystic versus noncystic diagnosis was based on the presence or absence of an epithelial lining, which was examined under a light mi- croscope. A radicular cyst was defined as a lesion lined with several layers of nonkeratinized squamous epithelium, with underlying connective tissue with loosely arranged collagen fibers and mild inflammatory cell infiltration. Periapical granuloma was defined as connective tissue with immature to mature collagen fibers, mild-to-moderate chronic infl- ammatory cell infiltration, and newly formed blood vessels, without evidence of lining epithelium. The presence of abundant lymphoplasmacytic inflammatory infiltrates and foamy histiocytes in the thickened epithelial layers indicated a periapical cyst with infection.
+
+Statistical Analysis
+Statistical analyses were performed using SPSS software (version 24; IBM Corporation, Armonk, NY). Interobserver agreement was assessed using the intraclass correlation coefficient (ICC) for radiological measurements and Fleiss¡¦ £e values for ultrasonic di- agnosis (95% confidence intervals) (22). The findings of the
+¡§gold standard¡¨ histopathological examination were compared with those of US examination to determine the sensitivity, specificity, positive predictive value, and negative predictive value of US and then establish an overall estimate of diagnostic accuracy and reliability of the technique. The reliability of US
+compared to histopathological examinations was assessed based on Cohen¡¦s £e. The £e value was graded as follows: poor (< 0.20), moderate (0.20-0.40), fair (0.40-0.60), good (0.60-0.80), or very good (0.81-1.00). Statistical significance was set at P < .05.
+
+
+RESULTS
+The interobserver agreement for the three CBCT evaluators was considered excellent, with an ICC value of 0.964 (95% confidence interval, 0.952-0.974). The findings for the le- sion¡¦s size using CBCT are summarized in Appendix
+Table 1. The Fleiss¡¦ £e value for the reliability of ultrasonic diagnosis was 0.768 (95% confidence interval, 0.675-0.861).
+¡@In total, 109 teeth of 109 patients (mean age, 35.0 ¡Ó 12.2 years; age range, 18-73 years; women: n = 46, 42.2%; men: n = 63, 57.8%) were analyzed (Table 1). The selection process
+
+
+
+
+
+
+
+
+Total (n, %)
+
+is illustrated in Figure 1. Of the 109 teeth, 80 (73.4%) were anterior and 39 (35.8%) were posterior. Preoperative CBCT revealed destruction of the buccal cortical bone around 90 teeth (82.6%), which was convenient for US inspection. The buccal cortical bone was intact around 19 teeth (17.4%).
+¡@In total, 48 (44%) of the 109 patients were diagnosed with periapical cysts on US, showing uniformly anechoic areas with well-defined smooth boundaries and no internal vas- cularization on color Doppler images (Figs 2 A3, A4, B3, and B4). Of them, 39 participants (38.8%) were histo- pathologically confirmed to have periapical cysts, showing a cavity lined by stratified squamous epithelium, with under- lying loosely connective tissue and chronic inflammatory cell infiltration (Figs 2 A7 and B7). The remaining eight patients were confirmed to have granulomas, and one lesion was identified as a periapical cyst with infection based on the histopathological profile (Table 2).
+¡@Fifty-five (50.5%) patients were diagnosed with periapical granulomas based on the US findings of frankly hypoechoic/ echogenic areas with thick and mildly irregular walls (Figs 3 A3 and B3). In some cases, color Doppler examination revealed a rich internal vascular supply (Fig 3 B4). Of these 55 patients,
+
+
+
+
+Fig. 1.  STARD flowchart outlining the study design. STARD, Standard for Reporting Diagnostic Accuracy; US, ultrasound.
+
+
+
+
+
+Fig. 2. Two representative periapical cyst lesions. (A1) Pretreatment periapical radiograph shows a periapical lesion related to the right maxillary central and lateral incisors. (B1) Pretreatment periapical radiograph shows a periapical lesion related to the left mandibular second premolar. (A2/B2) Axial-sectional CBCT image of the same lesion shows perforation and thinning of the buccal cortical bone. (A3/B3) Pretreatment US images of the same periapical lesion. (A4/B4) Preoperative US-CD shows no evidence of vascularity changes within the lesion. (A5/B5) Exposure of the periapical lesion after flap elevation during apical microsurgery revealed an intact encapsulated lesion. (A6-A7/ B6-B7) Histopathological images show a lesion lined with nonkeratinized squamous epithelium several layers thick, underlying connective tissue with loosely arranged collagen fibers, and mild inflammatory cell infiltration. CBCT, cone-beam computed tomography; CD, color Doppler; US, ultrasound.
+
+
+Ultrasound Examination	Histopathological Diagnoses	Total
+Periapical CystPeriapical GranulomaPeriapical Cyst with InfectionPeriapical cyst398148Periapical granuloma253055Periapical cyst with infection0246Total41635109
+
+
+2 were diagnosed with periapical cysts on histopathological examination. The remaining 53 patients were diagnosed with periapical granuloma based on the histopathological findings of
+
+connective tissue with wide infiltration of polymorphonuclear cells, lymphocytes, monocytes, and newly formed blood vessels (Figs 3 A7 and B7).
+
+
+
+
+
+Fig. 3. Two representative periapical granuloma lesions. (A1) Pretreatment periapical radiograph shows a periapical lesion at the left maxillary central incisor. (B1) Pretreatment periapical radiograph shows a periapical lesion related to the left maxillary lateral incisor. (A2/B2) Axial-sectional CBCT image of the same lesion reveals perforation of the buccal cortical bone. (A3/B3) Pretreatment US image of a cavity with poorly defined boundaries comprising both hypoechoic and hyperechoic areas. (A4/B4) Preoperative US-CD reveals internal vascularity. (A5/ B5) Exposure of the periapical lesion after flap elevation during apical microsurgery. (A6-A7/B6-B7) Histopathological examination shows connective tissue with immature to mature collagen fibers and mild-to-moderate chronic inflammatory cell infiltration, some hemorrhagic areas, and no evidence of lining epithelium. CBCT, cone-beam computed tomography; CD, color Doppler; US, ultrasound.
+
+
+¡@Six patients were determined to have periapical cysts with infection on US examination, which showed sediment in an
+echogenic capsule with poorly defined borders and vascu- larity in some areas (Figs 4 A3, A4¡AB3, and B4). Of the six lesions, histopathological examination of four revealed in-
+clusive granulomatous tissue containing a cystic cavity lined with stratified squamous epithelium and intense infl- ammatory cell infiltration, indicative of a periapical cyst with infection. Two lesions were diagnosed as granulomas based on the histopathological results (Figs 4 A7 and B7). The overall agreement between US diagnoses and histopatholo- gical findings was 80%.
+¡@A comparison of the ultrasonographic and histopathological results, including sensitivity, specificity, positive predictive value,
+
+and negative predictive value for diagnosing periapical lesions, is shown in Table 3. When Cohen¡¦s £e was used to assess the re- liability of US compared to histopathological examinations, we found a good mean overall agreement (£e = 0.779).
+
+
+DISCUSSION
+
+Microbial infections are a major cause of persistent apical periodontitis (7,23). Host immune reactions result in gran- uloma formation and apical radiolucency. Over time, an epithelial lining forms inside the apical cyst (7). Four main theories have attempted to explain the formation of a radi- cular cyst from granuloma (24¡V27). The lesion classification
+
+
+
+
+
+Fig. 4. Two representative lesions of a periapical cyst with infection. (A1) Pretreatment periapical radiograph shows a periapical lesion related to both maxillary central incisors. (B1) Pretreatment periapical radiograph shows a periapical lesion related to the left maxillary central incisor. (A2/B2) Axial-sectional CBCT image of the same lesion shows perforation and thinning of the buccal cortical bone. (A3/B3) Pretreatment US image of the same periapical lesion shows a well-defined anechoic lesion with sediment inside. (A4/B4) Preoperative US-CD shows abundant vascularity within the same lesion. (A5/B5) The periapical lesion was removed during apical microsurgery. (A6-A7/B6-B7) Histopathological examination shows cystic epithelium several layers thick proliferating into the stroma in an arcading pattern and underlying connective tissue with loosely arranged collagen fibers. Abundant lymphoplasmocytic inflammatory infiltration and foamy histiocytes are also present. CBCT, cone-beam computed tomography; CD, color Doppler; US, ultrasound.
+
+
+has also been suggested to be responsible for post-treatment diseases (23). Therefore, it is essential to evaluate periapical lesions to determine the appropriate medical interventions and prevent overtreatment. However, the reliability of routine radiographic examinations for evaluating cysts and granulomas is questionable (6,8). The current study is the first large sample size analysis in which US imaging was used to evaluate periapical lesions as part of a presurgical assess- ment and confirm US as a reliable diagnostic technique for differentiating periapical lesions.
+¡@
+The reported prevalence of periapical granulomas is 46- 84%, whereas that of periapical cysts varies from 6% to 55% and that of abscesses varies between 28.7% and 70.07% (4,28). The histopathological diagnoses in this study revealed 41 periapical cysts (37.6%), 63 periapical granulomas (57.8%), and 5 periapical cysts with infection (4.6%). Because all specimens were obtained from patients with persistent apical lesions scheduled to undergo apical surgery, the prevalence of cysts was higher than that reported in previous studies (7,29). A previous histobacteriological analysis had shown the presence
+
+
+
+
+
+Periapical LesionSensitivity (%)Specificity (%)Accuracy (%)Positive Predictive
+Value (%)Negative Predictive
+Value (%)Periapical cyst95.186.889.981.396.7Periapical granuloma84.195.789.096.481.580.098.197.266.799
+
+of bacteria inside the lesions (30). Thus, severe inflammation may be observed in cyst cavities infected by bacteria.
+¡@An ideal diagnostic approach provides an accurate and re- liable diagnosis without harming the patients. Although CBCT can be used to assess the extent of such lesions, its accuracy and efficiency in differentiating between radicular cysts and periapical granulomas are reportedly moderate (31). Its additional drawbacks include a higher radiation dose and high costs (6). Other advanced diagnostic modalities, such as magnetic resonance imaging (MRI), have also been used in dentistry to differentiate between cysts and noncysts (6,32). MRI is characterized by excellent soft-tissue contrast without ionizing radiation to distinguish the material present in a le- sion. Lizio et al demonstrated that the reliability and accuracy of MRI for the evaluation of periapical periodontitis were comparable to those of histopathological examination (32). MRI also has greater accuracy in assessing the relationship between nearby nerves and vessels (33). However, some ob- vious shortcomings must be considered, such as a longer scanning period, potential for inducing claustrophobia, and high cost (4,34). It is also contraindicated in patients with metallic restorations, implants, and cardiac pacemakers (4).
+¡@Compared to CBCT and MRI, US is a rapid examination without radiation exposure, providing ¡§live¡¨ images and particular information regarding the contents of a periapical lesion (10). Based on the different structural features of the tissues, periapical cysts appear hypoechoic without an in- ternal blood supply on US, whereas periapical granulomas appear either hyperechoic or both hypoechoic and hyper- echoic with a rich vascular supply (11,15). The dental lit- erature describes the use of US for detecting bone lesions of endodontic origin (4,11,12). In this study, we demonstrated that US is a reliable tool for determining the pathological nature of periapical lesions. The sensitivity and specificity of US for diagnosing periapical cysts were 0.95 and 0.87, re- spectively, and those for diagnosing periapical granulomas were 0.84 and 0.96, respectively. However, some authors have reported that the sensitivity and specificity of US for classifying periapical lesions is 100% (15,35¡V38). This dif- ference may be attributed to the small sample size of the previous studies. In this study, a larger sample size was used to evaluate the efficacy of US in classifying periapical lesions. Of the 109 periapical lesions assessed in this study, 55 were diagnosed as solid granulomatous lesions (50.5%) and 48 as cystic lesions (44.0%). However, in eight cases, the US-di- agnosed periapical cysts were determined to be granulomas
+
+on histopathological examination. This misinterpretation may be attributed to observer performance and the lack of vascularity in the lesion on color Doppler images. Con- versely, in two cases, US-diagnosed periapical granulomas were identified as cysts on histopathological examination. Both cases involved the posterior teeth, where bone thick- ness and continuity may have contributed to the discrepancy. The acoustic impedance of the bone causes the lesion bor- ders to appear poorly defined on US images with a sub- sequent diagnosis of granuloma. When an intracyst has poor sound transmission, the cyst is more likely to be infected. Our findings confirmed that US has a sensitivity of 80% and a specificity of 98.1% for detecting periapical cysts with in- fection, which may have internal vascularity. Considering the small number of mixed lesions, the diagnostic scores should be further evaluated in the future.
+¡@A common concern associated with US is the poor de- tection of deep intrabony periapical lesions as thick intact cortical bone completely reflects the ultrasonic waves (hy- perechoic/echogenic) (16). US waves reach bone lesions when either of the cortical plates is thin (12). Tikku et al demonstrated that lesions with a bone thickness ?1.6 mm had a detection rate of only 65% using US (14), while an ex vivo study reported high accuracy of US even with an intact cortical bone plate of thickness > 5 mm in bovine mandibles
+(16). In this study, 73.4% of the periapical lesions were lo- cated in the anterior region and only 26.6% in the posterior region. This was consistent with the findings of Ng et al (39), who observed that the success rate of endodontic treatment was higher for small apical preparations (77%) than for large preparations (70%). Alveolar bone thickness increases from the anterior to the posterior regions, which is favorable for US. In addition, preoperative CBCT revealed perforation of the buccal cortical bone around 90 teeth (82.6%), which contributed to ultrasonographic diagnosis. The remaining 19 teeth (17.4%) with intact buccal cortical bone of thick- ness < 2 mm were also diagnosed using US.
+¡@This study had certain limitations, such as the lack of di- mensional measurements. In this study, both periapical radio- graphy and CBCT were routinely performed for all patients to obtain preliminary information for surgical planning. Therefore, lesion dimensions measured by US did not influence the diag- nosis and treatment process, which is regarded as having little clinical importance. However, several studies have shown that US underestimates the size of the periapical lesion (40,41). During US, the probe is placed directly at the site of interest, and
+
+
+
+
+the pressure exerted by the operator can deform lesions in the subcutaneous soft tissue, leading to measurement errors. In this study, the lesions were located deeper, around the apex of the root. Further, the borders of the lesions on US images may differ according to bone thickness and continuity and acoustic im- pedance, leading to shorter measurements than those obtained with computed tomography. The lesion height could not be measured using US due to the inability to longitudinally position the US probe under clinical conditions. Therefore, the max- imum size could not be captured completely (40). Currently, another limitation was to make a distinction between gingiva/ mucosa and cheek definitively by the extraoral US examination. Nevertheless, the continuity of the hyperechoic line of the le- sion¡¦s buccal bone wall on the US images may have significant clinical value for this study.
+¡@One of the limitations of this study was that it was a single- center study. US is a user-dependent technology, and its knowledge and proper application require a learning period and calibration, as demonstrated in this study. All operators in this study were experts familiar with maxillofacial space- occupying lesions. It is necessary to encourage future utili- zation and interpretation of US findings in the assessment of periapical lesions. US-quantified color velocity and color power can accurately measure blood flow in the FOV and have been applied in the assessment of peri-implantitis (42). However, another drawback of this study was that no efforts were made in this study to quantify blood flow in periapical lesions. Accordingly, future research can use power and microvascular Doppler imaging in clinical examinations and monitoring the healing response after apical surgery.
+
+
+CONCLUSION
+Based on the results of this study, US imaging may be considered a nonionizing, economical, and rapid diagnostic tool for differentiating periapical granulomas from radicular cysts. B-mode and color Doppler US can provide accurate information on the nature of periapical lesions based on the
+
+echotexture of their contents and the presence of vascularity. US contributes to improved clinical diagnosis and avoidance of overtreatment in patients with apical periodontitis.
+
+
+ETHICAL APPROVAL
+This prospective study was conducted in accordance with the ethics committee of Shanghai Ninth People¡¦s Hospital, School of Medicine, Shanghai Jiao Tong University (ap- proval number: SH9H-2019-T324-1). It was registered with the Chinese Clinical Trials Registry under identification number ChiCTR2000035273.
+
+
+FUNDING
+This work was supported by the Natural Science Foundation of Shanghai (grant number 20ZR1448700), Science and Technology Commission of Shanghai Municipality (22Y21901000/23XD1434200), and the Shanghai Ninth People¡¦s Hospital affiliated with Shanghai Jiao Tong University, School of Medicine (grant numbers JYLJ201922/YGB202117/ KQYJXK2020).
+
+
+DECLARATION OF COMPETING INTEREST
+The authors declare the following financial interests/personal relationships which may be considered as potential com- peting interests: Shensheng Gu reports financial support was provided by the Natural Science Foundation of Shanghai. Jia Wang and Zhengwei Huang report financial support was provided by the Shanghai Jiao Tong University School of Medicine Affiliated Ninth People¡¦s Hospital.
+
+
+APPENDIX A
+See Table A1
+
+
+
+
+DimensionsMean (mm)Standard Deviation (mm)Maximum Value (mm)Minimum
+Value (mm)Mesiodistal8.623.5827.12.33Anterior-posterior7.963.5119.171.72Superior-inferior7.453.4017.982.01CBCT, cone beam computed tomography.
+
+
+
+
+.
+
+
+
+
+REFERENCES
+1. Ricucci D, Pascon EA, Ford TR, et al. Epithelium and bacteria in peri- apical lesions. Oral Surg Oral Med Oral Pathol Oral Radiol Endod 2006; 101:239¡V249.
+2. Nair PN. Pathogenesis of apical periodontitis and the causes of en- dodontic failures. Crit Rev Oral Biol Med 2004; 15:348¡V381.
+3. Ricucci D, Loghin S, Gon?alves LS, et al. Histobacteriologic conditions of the apical root canal system and periapical tissues in teeth asso- ciated with sinus tracts. J Endod 2018; 44:405¡V413.
+4. Natanasabapathy V, Arul B, Mishra A, et al. Ultrasound imaging for the differential diagnosis of periapical lesions of endodontic origin in com- parison with histopathology - a systematic review and meta-analysis. Int Endod J 2021; 54:693¡V711.
+5. Lin LM, Ricucci D, Lin J, et al. Nonsurgical root canal therapy of large cyst-like inflammatory periapical lesions and inflammatory apical cysts. J Endod 2009; 35:607¡V615.
+6. Karamifar K, Tondari A, Saghiri MA. Endodontic periapical lesion: an overview on the etiology, diagnosis and current treatment modalities. Eur Endod J 2020; 5:54¡V67.
+7. Ricucci D, Rocas IN, Hernandez S, et al. "True" versus "Bay" apical cysts: clinical, radiographic, histopathologic, and histobacteriologic features. J Endod 2020; 46:1217¡V1227.
+8. Chanani A, Adhikari HD. Reliability of cone beam computed tomo- graphy as a biopsy-independent tool in differential diagnosis of peria- pical cysts and granulomas: an in vivo study. J Conserv Dent 2017; 20:326¡V331.
+9. Guo J, Simon JH, Sedghizadeh P, et al. Evaluation of the reliability and accuracy of using cone-beam computed tomography for diagnosing periapical cysts from granulomas. J Endod 2013; 39:1485¡V1490.
+10. Cotti E, Campisi G, Garau V, et al. A new technique for the study of periapical bone lesions: ultrasound real time imaging. Int Endod J 2002; 35:148¡V152.
+11. Patil S, Alkahtani A, Bhandi S, et al. Ultrasound imaging versus radio- graphs in differentiating periapical lesions: a systematic review. Diagnostics ((Basel)) 2021; 11(7).
+12. Elbarbary M, Sgro A, Khazaei S, et al. The applications of ultrasound, and ultrasonography in dentistry: a scoping review of the literature. Clin Oral Investig 2022; 26:2299¡V2316.
+13. Raghav N, Reddy SS, Giridhar AG, et al. Comparison of the efficacy of conventional radiography, digital radiography, and ultrasound in diag- nosing periapical lesions. Oral Surg Oral Med Oral Pathol Oral Radiol Endod 2010; 110:379¡V385.
+14. Tikku AP, Bharti R, Sharma N, et al. Role of ultrasound and color doppler in diagnosis of periapical lesions of endodontic origin at varying bone thickness. J Conserv Dent 2016; 19:147¡V151.
+15. Cotti E, Campisi G, Ambu R, et al. Ultrasound real-time imaging in the differential diagnosis of periapical lesions. Int Endod J 2003; 36:556¡V563.
+16. Musu D, Cadeddu Dessalvi C, Shemesh H, et al. Ultrasound examina- tion for the detection of simulated periapical bone lesions in bovine mandibles: an ex vivo study. Int Endod J 2020; 53:1289¡V1298.
+17. Musu D, Rossi-Fedele G, Campisi G, et al. Ultrasonography in the di- agnosis of bone lesions of the jaws: a systematic review. Oral Radiol 2016; 122:e19¡V29.
+18. Bayrakdar IS, Yilmaz AB, Caglayan F, et al. Cone beam computed to- mography and ultrasonography imaging of benign intraosseous jaw lesion: a prospective radiopathological study. Clin Oral Investig 2018; 22:1531¡V1539.
+19. Tavelli L, Barootchi S, Majzoub J, et al. Ultrasonographic tissue perfu- sion analysis at implant and palatal donor sites following soft tissue augmentation: a clinical pilot study. J Clin Periodontol 2021; 48:602¡V614.
+
+
+20. Adler DD, Carson PL, Rubin JM, et al. Doppler ultrasound color flow imaging in the study of breast cancer: preliminary findings. Ultrasound Med Biol 1990; 16:553¡V559.
+21. Kim S, Kratchman S. Modern endodontic surgery concepts and prac-
+tice: a review. J Endod 2006; 32:601¡V623.
+22. Zidan M, Thomas RL, Slovis TL. What you need to know about statis- tics, part II: reliability of diagnostic and screening tests. Pediatr Radiol 2015; 45:317¡V328.
+23. Nair PN. On the causes of persistent apical periodontitis: a review. Int
+Endod J 2006; 39:249¡V281.
+24. Torabinejad M. The role of immunological reactions in apical cyst for- mation and the fate of epithelial cells after root canal therapy: a theory. Int J Oral Surg 1983; 12:14¡V22.
+25. Ten Cate AR. The epithelial cell rests of Malassez and the genesis of the dental cyst. Oral Surg Oral Med Oral Pathol 1972; 34:956¡V964.
+26. Lin LM, Huang GT, Rosenberg PA. Proliferation of epithelial cell rests, formation of apical cysts, and regression of apical cysts after periapical wound healing. J Endod 2007; 33:908¡V916.
+27. Nair PN, Sundqvist G, Sjogren U. Experimental evidence supports the abscess theory of development of radicular cysts. Oral Surg Oral Med Oral Pathol Oral Radiol Endod 2008; 106:294¡V303.
+28. Fernandes M, de Ataide I. Nonsurgical management of periapical le- sions. J Conserv Dent 2010; 13:240¡V245.
+29. Ramachandran Nair PN, Pajarola G, Schroeder HE. Types and in- cidence of human periapical lesions obtained with extracted teeth. Oral Surg Oral Med Oral Pathol Oral Radiol Endod 1996; 81:93¡V102.
+30. Ricucci D, Siqueira Jr. JF, et al. Extraradicular infection as the cause of persistent symptoms: a case series. J Endod 2015; 41:265¡V273.
+31. Bornstein MM, Bingisser AC, Reichart PA, et al. Comparison between radiographic (2-dimensional and 3-dimensional) and histologic findings of periapical lesions treated with apical surgery. J Endod 2015; 41:804¡V811.
+32. Lizio G, Salizzoni E, Coe M, et al. Differential diagnosis between a granuloma and radicular cyst: effectiveness of magnetic resonance imaging. Int Endod J 2018; 51:1077¡V1087.
+33. Geibel MA, Schreiber ES, Bracher AK, et al. Assessment of apical periodontitis by MRI: a feasibility study. Rofo 2015; 187:269¡V275.
+34. Thukral BB. Problems and preferences in pediatric imaging. Indian J Radiol Imaging 2015; 25:359¡V364.
+35. Cotti E, Simbola V, Dettori C, et al. Echographic evaluation of bone lesions of endodontic origin: report of two cases in the same patient. J Endod 2006; 32:901¡V905.
+36. Gundappa M, Ng SY, Whaites EJ. Comparison of ultrasound, digital and
+conventional radiography in differentiating periapical lesions. Dentomaxillofac Radiol 2006; 35:326¡V333.
+37. Parvathy V, Kumar R, James EP, et al. Ultrasound imaging versus conventional histopathology in diagnosis of periapical lesions of en- dodontic origin: a comparative evaluation. Indian J Dent Res 2014; 25:54¡V57.
+38. Khambete N, Kumar R. Ultrasound in differential diagnosis of periapical radiolucencies: a radiohistopathological study. J Conserv Dent 2015; 18:39¡V43.
+39. Ng YL, Mann V, Rahbaran S, et al. Outcome of primary root canal treatment: systematic review of the literature ¡V Part 2. Influence of clinical factors. Int Endod J 2008; 41:6¡V31.
+40. S?nmez G, Kamburo?lu K, Y?lmaz F, et al. Versatility of high resolution
+ultrasonography in the assessment of granulomas and radicular cysts: a comparative in vivo study. Dentomaxillofac Radiol 2019; 48:20190082.
+41. Farrokh A, Maass N, Treu L, et al. Accuracy of tumor size measurement: comparison of B-mode ultrasound, strain elastography, and 2D and 3D shear wave elastography with histopathological lesion size. Acta Radiol 2019; 60:451¡V458.
+42. Barootchi S, Tavelli L, Majzoub J, et al. Ultrasonographic tissue perfu- sion in peri-implant health and disease. J Dent Res 2022; 101:278¡V285.
+
+
+
+
+
+
+
+
+
+
+
+

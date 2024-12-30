@@ -1,0 +1,339 @@
+Journal of Dentistry 135 (2023) 104581
+
+
+
+
+
+
+
+
+A deep learning approach for radiological detection and classification of	 radicular cysts and periapical granulomas
+Jonas Ver Berne a,b, Soroush Baseri Saadi b, Constantinus Politis a,b, Reinhilde Jacobs a,b,c,*
+a Department of Oral and Maxillofacial Surgery, University Hospitals Leuven, Kapucijnenvoer 33, Leuven 3000, Belgium
+b OMFS-IMPATH Research Group, Department of Imaging and Pathology, Catholic University Leuven, Belgium
+c Department of Dentistry, Karolinska Institutet, Stockholm, Sweden
+
+
+
+A R T I C L E I N F O 
+
+Keywords: Radicular cyst Granuloma Deep learning
+Artificial intelligence Diagnosis
+Treatment
+
+A B S T R A C T 
+
+Objectives: Dentists and oral surgeons often face difficulties distinguishing between radicular cysts and periapical granulomas on panoramic imaging. Radicular cysts require surgical removal while root canal treatment is the first-line treatment for periapical granulomas. Therefore, an automated tool to aid clinical decision making is needed.
+Methods: A deep learning framework was developed using panoramic images of 80 radicular cysts and 72 per- iapical granulomas located in the mandible. Additionally, 197 normal images and 58 images with other radio- lucent lesions were selected to improve model robustness. The images were cropped into global (affected half of the mandible) and local images (only the lesion) and then the dataset was split into 90% training and 10% testing sets. Data augmentation was performed on the training dataset. A two-route convolutional neural network using the global and local images was constructed for lesion classification. These outputs were concatenated into the object detection network for lesion localization.
+Results: The classification network achieved a sensitivity of 1.00 (95% C.I. 0.63¡V1.00), specificity of 0.95 (0.86¡V0.99), and AUC (area under the receiver-operating characteristic curve) of 0.97 for radicular cysts and a sensitivity of 0.77 (0.46¡V0.95), specificity of 1.00 (0.93¡V1.00), and AUC of 0.88 for periapical granulomas. Average precision for the localization network was 0.83 for radicular cysts and 0.74 for periapical granulomas.
+Conclusions: The proposed model demonstrated reliable diagnostic performance for the detection and differen- tiation of radicular cysts and periapical granulomas. Using deep learning, diagnostic efficacy can be enhanced leading to a more efficient referral strategy and subsequent treatment efficacy.
+Clinical significance: A two-route deep learning approach using global and local images can reliably differentiate between radicular cysts and periapical granulomas on panoramic imaging. Concatenating its output to a local- izing network creates a clinically usable workflow for classifying and localizing these lesions, enhancing treat- ment and referral practices.
+
+
+
+
+
+1. Introduction
+
+   Radicular cysts and periapical granulomas are two of the most common lesions in the jaw encountered on panoramic imaging [1]. Differentiating between these two lesions has an important therapeutic implication. Whereas granulomas are primarily treated with a root canal treatment (eliminating the inflammatory stimulus inside the root ca- nals), radicular cysts can continue to exist and even grow in the absence of their initial inflammatory stimulus. In many cases a cystectomy is therefore needed, surgically removing the epithelial lining often together with a retrograde filling of the root canal. However,
+
+differentiating between these two lesions requires meticulous evaluation of their radiographic features.
+   Previous efforts have been undertaken to differentiate between radicular cysts and periapical granulomas on 2D- and 3D-imaging [2¡V11]. Differences in gray-value on intra-oral radiographs have been
+studied based on the premise that empty cysts have different gray-values
+than solid granulomas, however with varying performance [3,4]. Detailed evaluation of CBCT images using a set of defined criteria was also proposed for making a diagnosis [7,8]. However, subjective dif- ferences in the definition of many features makes this approach operator dependent. Furthermore, the need for CBCT images requires subjecting
+
+
+
+* Corresponding author at: Department of Oral and Maxillofacial Surgery, University Hospitals Leuven, Kapucijnenvoer 33, Leuven 3000, Belgium.
+E-mail address: reinhilde.jacobs@ki.se (R. Jacobs).
+
+https://doi.org/10.1016/j.jdent.2023.104581
+Received 18 December 2022; Received in revised form 27 May 2023; Accepted 6 June 2023
+Available online 7 June 2023
+0300-5712/? 2023 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+
+
+
+
+Fig. 1. Flowchart of the case selection and data preparation process. Panoramic images were cropped into global and local images. The dataset containing the global images was split into 90% training and validation, and 10% testing set. Data augmentation was performed only on the set used for training and validation.
+
+
+the patient to higher radiation doses, something not routinely recom- mended for apical lesions nor widely available in primary care dentistry. Machine learning approaches using texture and density analysis showed promising results but come with a heavy workflow needed to prepare the images for analysis [6].
+   In recent years the use of Artificial Intelligence has revolutionized the field of radiology because of its performance and ease-of-use. Arti- ficial intelligence (AI) is a broad field that encompasses many different approaches to creating intelligent systems. It refers to the ability of machines to perform tasks that would normally require human intelli- gence, such as perception, reasoning, learning, and problem solving. These capabilities are used in radiology to aid clinicians in the detection, classification, and segmentation of different types of images. Machine learning (ML) is a subfield of AI that is concerned with the development of algorithms and statistical models that allow computers to learn from and make predictions on data. Instead of programming a computer to perform a specific task, ML algorithms can now automatically learn from data. Deep learning (DL) is a specific type of machine learning that uses artificial neural networks, which are composed of many interconnected processing nodes. While traditional ML algorithms require the input of handcrafted features, deep learning algorithms use multiple layers of nodes to extract features from raw data and make predictions. This
+
+allows deep learning models to learn more complex representations of data and achieve higher accuracy on tasks such as image classification. Convolutional neural networks (CNN) are a type of deep learning al- gorithm that are particularly performant for image processing as evi- denced by their first application in handwriting recognition [12] and superior performance in the ImageNet challenge [13]. They work by applying a series of filters to the input image, where each filter is responsible for detecting a certain feature in the image (e.g., edges, textures, or shapes). The filtered images, also called feature maps, are then fed into successive layers of the network, where they are processed and combined to produce a higher-level representation of the input data. The final layers of the network combine the learned representation to produce a classification prediction.
+   CNN¡¦s have been widely utilized in dentomaxillofacial imaging due
+to their superior performance in image recognition tasks. These models have been introduced in image segmentation of the mandible [14], temporomandibular joint [15,16], and midfacial complex [17], caries detection [18], and cephalometric landmark detection [19,20] showing high accuracy and offering a substantial time advantage over manual performance. Finally, classification of different odontogenic cysts and tumors on panoramic and CBCT imaging using CNNs has also been widely investigated in the literature. For example, these algorithms have
+
+
+
+
+Fig. 2. AI framework consisting of 2 networks. An input panoramic image is cropped into global and local images, both being presented to the customized MobileNetV2 classification network. Global images classified as cyst or granuloma are presented to the YoloV3 network for lesion localization. The YoloV3 with 53 convolutional layers performs the detection task in three different scales by using strides of 8, 16, and 32 to accommodate various lesion sizes. The output images are in 256x256 size presenting the detected lesion surrounded by a bounding box with its class name and classification confidence.
+
+
+demonstrated their ability to accurately distinguish between odonto- genic keratocysts and ameloblastomas, thereby assisting surgeons in determining appropriate treatment strategies [21¡V23].
+In this context, the aim of this study was to develop a deep learning
+approach for the classification and localization of radicular cysts and periapical granulomas of the mandible on panoramic imaging. This will aid general dentists and other first-line oral health professionals in making a proper diagnosis, improving referral efficacy, and enhancing clinical decision making.
+
+2. Materials and methods
+
+2.1. Study setting
+
+   This retrospective study was conducted at the department of Oral and Maxillofacial Surgery, and the protocol was approved by the Ethics Committee of our institution (S65708). Patients presenting at the department between 2000 and 2022 receiving panoramic imaging were considered for inclusion.
+
+2.2. Data acquisition
+
+   All panoramic radiographs were acquired from a retrospective database of radiographs at the Center of Dentomaxillofacial Radiology of our institution. Panoramic images at our department were digitally acquired via four different devices: Cranex Tome, Soredex, Tuusula, Finland (2000¡V2008), Veraviewepocs 2D, Morita, Kyoto, Japan
+(2008¡V2013), and VistaPano S, D?rr Dental, Bietigheim-Hissingen,
+Germany (2013 ¡V current) as well as Promax 2D, Planmeca, Helsinki, Finland (2013 ¡V current). Images were only included when the image quality was sufficient to allow clear depiction of radicular lesions. Only
+solitary lesions at the roots of mandibular teeth were considered, and multiple lesions per patient were permitted. Both symptomatic and asymptomatic patients were included. Panoramic images showing mo- tion artefacts, positioning artefacts, and foreign body artefacts as well as analogic scanned or photographed images from referring dental prac- tices were excluded because of poor image quality. Furthermore, com- posite lesions and other pathologies were excluded. Differences in
+
+endodontically treated teeth between the groups were evaluated because of the possibility of target leakage since apical lesions on these teeth may have a higher propensity of being radicular cysts.
+   A total of 249 panoramic images were considered for inclusion and 152 cases of apical lesions were included in the final dataset: 80 radic- ular cysts and 72 periapical granulomas. Additionally, 58 positive con- trols (radiolucent lesions other than cysts and granulomas) and 197 negative controls (images without any pathology) were selected to improve model robustness.
+
+2.3. Reference test
+
+   Labeling of the cases was performed by two authors with clinical expertise in dentomaxillofacial radiology using expert consensus based on a combination of pathology results, clinical, and/or radiographic information. In case of doubt or disagreement, a third dentomax- illofacial radiology expert was consulted to reach expert consensus. An epithelium-lined radicular cyst on pathology result was considered a true radicular cyst. However, sampling errors, handling errors, and
+massive inflammation can obscure the pathologist¡¦s view of this
+epithelial lining on a biopsy. Therefore, when granulomatous tissue was reported by the pathologist, clinical and radiographical information was used for making a definitive diagnosis. A sharp cortical lining, ballooning-effect, and an off-apical lesion¡¦s center on radiograph were
+considered signs of a radicular cyst, as was encountering a tissue-lined
+cavity during surgery. Conversely, diffuse borders, a lesion ¡§creeping¡¨
+coronally along the root, and dense tissue collection during surgery were considered signs of a periapical granuloma.
+
+2.4. Data preparation
+
+   The data acquisition and preparation process are depicted in Fig. 1. Panoramic images were cropped using the Fiji image processing package
+[24] to display only the mandible and divided into left- and right-sided images displaying the lesion, hereafter called ¡§global images¡¨. The im- ages were further cropped to contain only the lesion, hereafter called ¡§local images¡¨. At this point, 10 percent of the dataset containing the global images (67 images) was randomly selected as a final test set to
+
+
+
+evaluate the model¡¦s performance.
+   After selecting the test set, augmentation was performed on the remaining set (consisting of both global and local images) using Albu- mentations augmentation library in Python [25]. The following pixel-level and spatial-level transformations were performed: optical distortion, horizontal flip, random gamma noise, multiplicative noise, random tone curve, sharpening the edges, and Gaussian noise. Stratified k-fold cross validation was used to randomly split this augmented dataset into training and validation sets in a 10-fold manner [26].
+
+2.5. AI framework
+
+   An AI framework was composed of two cascaded neural networks: one for the classification of the apical lesions using a deep convolution
+
+Corporation, U.S.A) with a memory of 16 GB GDDR5X. The framework was CUDA, CuDNN, the programming language was Python, and the operating system was Microsoft Windows (Bott E, Stinson C. Windows 10 inside out. Microsoft Press; 2019).
+
+2.6. Evaluation methods
+
+   The following classification metrics were used on the test dataset to evaluate the performance of the classification network (MobileNetV2), and were determined for radicular cysts and periapical granulomas separately:
+? Sensitivity: percentage of correctly classify images from the ground truth.
+
+neural network (MobileNetV2) and one for the localization of the lesions of interest (cysts and granulomas) employing an object detection network (YoloV3). An overview of the AI framework is represented in Fig. 2.
+
+Sensitivity =
+
+TP + FN   TP	
+
+2.5.1. Classification network
+A very deep neural network MobileNetV2 with 53 layers was
+? 
+Specificity: ability of the model to correctly not classify images positively from all the negative ground truth.
+  TN	
+
+selected to perform the classification task [27]. The network was pre- trained with the ImageNet database [28]. The model was customized by defining two inputs (one for global and one for local images) that were concatenated as the primary input. In addition, the classification head of
+
+Specificity =
+
+TN + FP
+
+the network was modified to match to the number of classes in our
+dataset. The dataset was resized to a resolution of 256 x 256 pixels using the Transform sub-library of the Torchvision library (version 0.14.1) and normalized to a fixed range (0, 1). Training of the model was performed with categorical cross-entropy as the loss function, Adam¡¦s algorithm as
+the optimizer with an initial learning rate of 0.001, a batch size of 64,
+and a weight decay parameter of 2e-4. The model was trained for 50 epochs per every k-fold for a total of 500 epochs with random splitting for the training and validation sets.
+
+2.5.2. Localization network
+   Yolov3 (You only Look Once) [29] was employed to localize cysts and granulomas on the panoramic images. Transfer learning using ImageNet and COCO datasets was used to train the network constructed with 53 convolutional layers called Darknet-53. The last three layers of the network: average pooling, connected, and softmax layer, which are used for classification training on the Imagenet dataset, were excluded. Yolo performs detection in 3 different scales to accommodate various lesion sizes by using strides of 32, 16, and 8. The image Input size was set to 256x256, Yolo anchor per scale 3, Training warm-up epochs, Initial
+learning rate 1e-4 and Learning rate end 1e-6. Training of the model was performed with categorical cross-entropy as the loss function, Adam¡¦s algorithm as the optimizer, training batch size 4 and with epochs 500.
+The localization task was performed only for cysts and granulomas using global images of the training and test datasets already prepared for the classifier network. LabelMe, a graphical image annotation tool, was used to annotate images into XML format, including data about the name of the class, coordinates of the bounding box and the size of the bounding box [30]. The network was able to detect more than one bounding box per lesion in the input panoramic image; however, applying non-maximum suppression only one bounding box among the predicted boxes was selected per lesion. The bounding box with the highest clas- sification confidence among the multiple predictions was adopted for indicating the location of the lesion as well as its class.
+
+2.5.3. Hardware Setup
+   Pytorch machine learning framework (version 1.13.1) was employed to design the network architecture, and the training of the network was
+   
+Where, for a specific lesion in a one-versus-all manner, true positive (TP) refers to the correctly classified images in the reference class, true negative (TN), indicating the number of images where the model correctly classified as not belonging to the reference class, false positive (FP), the number of the images where the network misclassified as belonging to the reference class, and false negative (FN), refers to the classifications where the model incorrectly classified an image as not belonging to the reference class.
+   The classifier network MobileNetV2 was further assessed using Gradient-weighted Class Activation Mapping (Grad-CAM) to provide a visual localization of class-discriminative regions [33]. In addition, Receiver Operating Characteristic (ROC) curves and confusion matrices were acquired to evaluate the classification performance.
+   The performance of the localization network (YoloV3) was evaluated using Intersection over union (IoU), also known as the Jaccard Index:
+IoU = Ground truth bounding box region ¡ä Predicted region Ground truth bounding box region ¡å Predicted region
+   The threshold value of ? 0.8 (80%) was set for both IoU and the classification confidence score to compute the average precision (AP)
+score for each class, calculated as the weighted mean of precisions at each threshold. Micro and Macro AP were computed for lesion detection and to determine classification confidence [34].
+
+2.7. Statistical analysis
+
+   Comparability of the groups of interest (radicular cysts and peri- apical granulomas) was evaluated using parametric statistical tests. The mean age between the groups was compared using the unpaired t-test with Welch¡¦s correction for unequal variances. Normality was checked
+with a Q-Q plot and showed no significant deviations from a normal
+distribution and observations within each group were independent. The proportions of male and female patients and root canal treatments were compared using the Chi-squared test for categorical variables. Obser-
+vations within each group were independent and mutually exclusive for each cell in the contingency table. The expected count was >5 obser- vations for all cells in the contingency table. The 95% confidence in-
+terval (C.I.) for sensitivity and specificity for each lesion separately was
+
+performed on the GPU [31,32]. The modelling was implemented on a
+
+
+calculated using the following method: C I
+
+a	1 96 ¡Ô?a???(?1??¡X???a?)? where
+
+Ram and a graphic card of NVIDIA Quadro P5000 GPU (NVIDIA	a is the sensitivity/specificity as a decimal and n is the total number of
+
+
+
+Table 1
+Comparison of demographic data and root canal treatments between the groups of interest (radicular cysts and periapical granulomas).
+VariableCyst (N = 80)Granuloma (N = 72)P-valueAge38 ¡Ó 1443 ¡Ó 170.083Gender0.312Male41 (51)31 (43)Female39 (49)41 (57)Root canal treatments43 (54)34 (47)0.422Age: years ¡Ó standard deviation, p-value from Welch¡¦s t-test. Gender and root canal treatments: counts (%), p-value from Chi-squared test.
+
+positive cases in each instance.
+
+3. Results
+
+   Demographic data of the groups of interest (radicular cysts and periapical granulomas) and a comparison of root canal treatments in the
+
+data set is depicted in Table 1. There were no significant differences in mean age, gender, and number of root canal treatments between the two groups.
+   Performance of the classification and localization networks is depicted in Fig. 3. The classification network (MobileNetV2) achieved reliable results on the predetermined test set. For radicular cysts the model had a sensitivity of 1.00 (95% C.I. 0.63¡V1.00), specificity of 0.95
+(95% C.I. 0.86¡V0.99), and AUC of 0.97. For periapical granulomas there
+was a sensitivity of 0.77 (95% C.I. 0.46¡V0.95), specificity of 1.00 (95% C.I. 0.93¡V1.00), and AUC of 0.88. Fig. 3A displays the training history of the MobileNetV2. The model¡¦s performance improved as the number of
+epochs increased and achieved convergence at 500 epochs. Grad-CAM analysis in Figs. 4 and 5 show the important features selected for the classification task, which were located both at the periphery and the center of the lesion. The localization network (YoloV3) achieved an AP of 0.83 for radicular cysts and 0.74 for periapical granulomas (Fig. 3D). Table 2 summarizes the current literature on the radiological differential diagnosis of radicular cysts and periapical granulomas.
+
+
+
+
+Fig. 3. Training history and performance metrics of the classification (MobileNetV2) and localization (YoloV3) networks. Training history of the MobileNetV2 model depicting the loss and accuracy values of the model at different epochs during training and validation phases (A). Receiver Operating Characteristic (ROC) curves for the classification of cysts, granulomas, positive controls, and negative controls (B). Multiclass confusion matrix of the predetermined test dataset implemented on the MobileNetV2 network as classifier. The diagonal values depict the correctly classified images, and the off-diagonal values refers to the misclassified images. Elements were color-mapped according to the maximum and minimum values at the right color-map bar (C). Precision-Recall curve of the YoloV3 network for localization of radicular cysts and periapical granulomas representing the trade-off between precision and recall for different threshold values depicted as Average precision (AP) value for each class (D).
+
+
+
+
+Fig. 4. Representation of the classification and localization process for radicular cysts and periapical granulomas. Localization was performed only on images classified as radicular cyst or periapical granuloma.
+
+
+
+
+
+Fig. 5. Representation of the classification process for positive controls (radiolucent lesions other than radicular cysts and periapical granulomas) and negative controls (normal panoramic images). The process is truncated after the classification step as only lesions classified as radicular cysts and periapical granulomas were forwarded to the localization network.
+
+4. Discussion
+
+   Differentiating between radicular cysts and periapical granulomas is of great clinical importance because of the differences in treatment. Although many articles have described methods for differentiating be- tween these two lesions on 2D-imaging, there is still a lot of controversy regarding the capability of simple radiographic features for performing this task. The advantage of deep learning is that it can automate the classification process and recognize a larger number of features, which makes this approach practically feasible in aiding clinical decision making.
+   On 2D-imaging previous papers aimed to compare gray values be- tween cysts and granulomas [3,4]. This is a valid approach based on the premise that granulomas are solid lesions of granulomatous tissue pre- senting with higher (brighter) gray values, whereas cysts are empty or fluid-containing lesions thus displaying lower (darker) gray values.
+
+However, adopting this approach for panoramic images rather than intra-oral images may carry some issues. In the upper jaw, the over- lapping maxillary sinus floor, anterior nasal spine, and air gap between the tongue and palate may obscure the internal structure of the lesions. Similarly in the anterior mandible, dens projections of the cervical spine may alter the appearance of apical lesions. In both instances, making a differential diagnosis based on gray values alone may be difficult. Convolutional neural networks consider many features, both located in
+the lesion¡¦s center as well as the periphery, thereby circumventing some of these issues. Simon et al. published a paper comparing gray values
+between cyst and granuloma lesions on cone-beam CT (CBCT) and re- ported an accuracy of 76% [5]. In contrast, a similar study by AlMadi et al. showed weak overall performance with an accuracy of 54% [10]. Differences in gray value measurement depend strongly on the
+segmented area and whether they contain only the lesion¡¦s center, the lesion¡¦s border, or even the tooth roots. The approach in our study
+considered both global images containing the affected half of the mandible and local images consisting of the cropped lesion with im- mediate surroundings. Concatenating both images with different sizes as the input helps to increase the accuracy of lesion detection by over- coming the small aspect ratio of the lesions compared to the full pano- ramic image. Using global and local images ensures the network extracts both relevant lesional and perilesional features instead of only focusing
+on the lesion¡¦s internal structure.
+   Interestingly, Flores et al. reported a high accuracy of 94.1% for classification of cysts and granulomas on CBCT imaging but using CBCT ground truths as the reference test [6]. When histological diagnosis was used as the ground truth, the accuracy dropped to 88.2%. A possible explanation for this phenomenon may be related to the difficulty of histology to make a correct diagnosis of a radicular cyst when the lesion is massively inflamed, destroying the epithelial cystic lining. A similar problem is sometimes encountered in odontogenic keratocysts showing massive inflammation and loss of its characteristic epithelial lining after surgical marsupialization. However, these inflamed odontogenic kera- tocysts have been shown to retain their cell proliferation capacity despite being inflamed [35]. In contrast, Bhaskar in 1972 proposed that radicular cysts can involute due to inflammation induced by a root canal instrumentation surpassing the apex of the tooth, but solid evidence for this theory is lacking [36]. It is therefore a reasonable approach to consider radicular cysts as being self-sustainable even when inflamed,
+
+
+Table 2
+Overview of published papers on radiological differentiation between radicular cysts and periapical granulomas.
+AuthorYearIndex testReference testRadiological featuresClassification methodPerformanceTrope M.1989CTHistologyClassic featuresDescriptiveNot reportedShrout M.1993Intra-oralHistologyGray valueStatisticsStatistics for standardized images notK.radiographreportedWhite C.S.1994Intra-oralHistologyGray valueStatisticsGray values not significantly differentradiograph(p=0.530), size significantly different(p=0.001)Simon J.2006CBCTHistologyGray valueStatisticsAccuracy 0.76 (95% C.I.: 0.50 ¡V 0.93)H.S.Flores A.2009CBCTRadiomicsgraph-theoretic random walks segmentation andmachine learning-based LDA and AdaBoostclassifiersCBCTAccuracy 0.94HistologyAccuracy 0.88Guo J.2013CBCTHistologyClassic featuresStatisticsAUC 0.76 when using 4 or more of the 6featuresChanani2017CBCTHistologyClassic featuresStatisticsAUC 0.66 when using 4 or more of the 6A.featuresPitcher B.2017CBCTHistologyClassic features +Binary decision treeAccuracy 0.78radiomicsAlMadi D.2020CBCTHistologyGray valueStatisticsAUC 0.44, accuracy 0.54M.De Rosa C.2020CBCTHistologyRadiomicsCluster analysisAUC 0.86 for best performing featureS.
+
+CT: Computed tomography. CBCT: cone-beam computed tomography. AUC: area under the receiver operating characteristic curve.
+
+
+thus requiring surgery for complete removal. Because of the discrepancy between clinical-radiological and histological diagnoses in massively inflamed cases, the accuracy of classification models may change when considering a different ground truth. In the present paper we attempted to avoid this problem by using expert consensus combining clinical, radiological, and histological information Section 2.3 as the ground truth for labeling lesions.
+   Although our current approach provided positive results, some lim- itations should be taken into consideration. Firstly, given the small data set of 80 cysts and 72 granulomas, overfitting was a genuine concern. Data augmentation of training and validation sets aimed to reduce
+overfitting but can¡¦t fully eliminate it. Secondly, model interpretability is another concern in full deep learning-based classification models,
+especially in cases where misclassification occurs. Avoiding the ¡§clever Hans effect¡¨ (where classification is performed based on spurious cor-
+relations, e.g., when a root canal filling is associated with a radicular cyst and not a periapical granuloma the model can easily use this for classification instead of lesion features) is of great importance in image classification with deep learning [37]. To this end, visualization methods can help in evaluating the features used by the model. Several methods have been developed like LIME (local interpretable model-agnostic explanations), convolution visualization, and Gradient-based localization [38,39]. As depicted our model detects features from both the periphery and center of the lesion but since its maximum attention is being directed to seemingly irrelevant parts of the images, any spurious correlations cannot be ruled out. As a third concern, classic performance measures used in deep learning (F1-score,
+accuracy, ROC, and AUC) may not reflect the model¡¦s clinical usability. For example, based on one¡¦s view of radicular cysts and periapical
+granulomas, shifting the model to a higher specificity for classifying radicular cysts may result in less diagnoses of radicular cysts, but also in fewer unnecessary surgeries. Conversely, tweaking the model to result in a high sensitivity for radicular cysts will assure no cystic lesions are missed. Finally, the quality of the images included in our study has an immediate effect on the results. Although we included all diagnostically usable images in our analysis, the great number of poorly executed panoramic radiographs in clinical practice can severely limit the clas- sification performance for new images fed to our models. Only with larger datasets this hurdle can be overcome, incorporating great vari- ability in the included images regarding patient positioning, radiation
+
+doses, different hardware-manufacturers, etc.
+
+5. Conclusions
+
+   The present paper described a workflow for automatic differentiation and localization of radicular cysts and periapical granulomas on pano- ramic imaging with reliable clinical performance. Additionally, this was the first study omitting pure histological examination as the reference test given the concerns previously discussed. Using deep learning, diagnostic efficacy of apical lesions can be enhanced leading to a more efficient referral strategy and subsequent treatment outcome.
+
+CRediT authorship contribution statement
+
+   Jonas Ver Berne: Conceptualization, Methodology, Data curation, Writing ¡V original draft, Writing ¡V review & editing. Soroush Baseri Saadi: Conceptualization, Methodology, Formal analysis, Writing ¡V
+original draft, Software, Writing ¡V review & editing. Constantinus Politis: Resources, Writing ¡V review & editing, Supervision. Reinhilde Jacobs: Conceptualization, Resources, Data curation, Writing ¡V review & editing, Supervision.
+
+Declaration of Competing Interest
+
+   The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+References
+
+[1] A.V. Jones, C.D. Franklin, An analysis of oral and maxillofacial pathology found in adults over a 30-year period, J. Oral Pathol. Med. 7 (2006) 392¡V401, https://doi. org/10.1111/j.1600-0714.2006.00451.x.
+[2] M. Trope, J. Pettigrew, J. Petras, F. Barnett, L. Tronstad, Differentiation of radicular cyst and granulomas using computerized tomography, Endod. Dent.
+Traumatol. 5 (1989) 69¡V72, https://doi.org/10.1111/J.1600-9657.1989.TB00339. X.
+[3] M.K. Shrout, J.M. Hall, C.E. Hildebolt, Differentiation of periapical granulomas and
+radicular cysts by digital radiometric analysis, Oral Surg. Oral Med. Oral Pathol. 76 (1993) 356¡V361, https://doi.org/10.1016/0030-4220(93)90268-9.
+[4] S.C. White, J.P. Sapp, B.G. Seto, N.J. Mankovich, Absence of radiometric
+differentiation between periapical cysts and granulomas, Oral Surg. Oral Med. Oral Pathol. 78 (1994) 650¡V654, https://doi.org/10.1016/0030-4220(94)90180-5.
+
+
+
+[5] J.H.S. Simon, R. Enciso, J.M. Malfaz, R. Roges, M. Bailey-Perry, A. Patel,
+Differential diagnosis of large periapical lesions using cone-beam computed tomography measurements and biopsy, J. Endod. 32 (2006) 833¡V837, https://doi. org/10.1016/J.JOEN.2006.03.008.
+[6] A. Flores, S. Rysavy, R. Enciso, K. Okada, Non-invasive differential diagnosis of dental periapical lesions in cone-beam CT, in: Proceedings of the IEEE International Symposium on Biomedical Imaging: From Nano to Macro, ISBI 2009, 2009,
+pp. 566¡V569, https://doi.org/10.1109/ISBI.2009.5193110.
+[7] J. Guo, J.H. Simon, P. Sedghizadeh, O.N. Soliman, T. Chapman, R. Enciso, Evaluation of the reliability and accuracy of using cone-beam computed tomography for diagnosing periapical cysts from granulomas, J. Endod. 39 (2013)
+1485¡V1490, https://doi.org/10.1016/J.JOEN.2013.08.019.
+[8] A. Chanani, H. Adhikari, Reliability of cone beam computed tomography as a
+biopsy-independent tool in differential diagnosis of periapical cysts and granulomas: an in vivo study, J. Conservs. Dent. 20 (2017) 326¡V331, https://doi. org/10.4103/JCD.JCD_124_17.
+[9] B. Pitcher, A. Alaqla, M. Noujeim, J.A. Wealleans, G. Kotsakis, V. Chrepa, Binary decision trees for preoperative periapical cyst screening using cone-beam
+computed tomography, J. Endod. 43 (2017) 383¡V388, https://doi.org/10.1016/J. JOEN.2016.10.046.
+[10] D.M. AlMadi, M.A. Al-Hadlaq, O. AlOtaibi, R.S. Alshagroud, A.A. Al-Ekrish, Accuracy of mean grey density values obtained with small field of view cone beam computed tomography in differentiation between periapical cystic and solid
+lesions, Int. Endod. J. 53 (2020) 1318¡V1326, https://doi.org/10.1111/IEJ.13355.
+[11] C.S. de Rosa, M.L. Bergamini, M. Palmieri, D.J. de S. Sarmento, M.O. de Carvalho,
+A.L.F. Ricardo, B. Hasseus, P. Jonasson, P.H. Braz-Silva, A.L. Ferreira Costa, Differentiation of periapical granuloma from radicular cyst using cone beam computed tomography images texture analysis, Heliyon 6 (2020) E05194, https:// doi.org/10.1016/J.HELIYON.2020.E05194.
+[12] Y. LeCun, L. Bottou, Y. Bengio, P. Haffner, Gradient-based learning applied to document recognition, Proc. IEEE 86 (1998) 2278¡V2323, https://doi.org/10.1109/
+5.726791.
+[13] A. Krizhevsky, I. Sutskever, G.E. Hinton, ImageNet classification with deep convolutional neural networks, Adv. Neural. Inf. Process. Syst. (2012) 25. http://code.google.com/p/cuda-convnet/. accessed February 12, 2023.
+[14] P.J. Verhelst, A. Smolders, T. Beznik, J. Meewis, A. Vandemeulebroucke,
+E. Shaheen, A. van Gerven, H. Willems, C. Politis, R. Jacobs, Layered deep learning for automatic mandibular segmentation in cone-beam computed tomography,
+J. Dent. 114 (2021), 103786, https://doi.org/10.1016/J.JDENT.2021.103786.
+[15] P.J. Verhelst, E. Shaheen, K. de Faria Vasconcelos, F. van der Cruyssen, S. Shujaat,
+W. Coudyzer, B. Salmon, G. Swennen, C. Politis, R. Jacobs, Validation of a 3D cBcT- based protocol for the follow-up of mandibular condyle remodeling, Dentomaxillofacial Radiol. 49 (2020), https://doi.org/10.1259/dmfr.20190364,
+20190364.
+[16] M. Li, K. Punithakumar, P.W. Major, L.H. Le, K.C.T. Nguyen, C. Pacheco-Pereira, N.
+R. Kaipatur, B. Nebbe, J.L. Jaremko, F.T. Almeida, Temporomandibular joint segmentation in MRI images using deep learning, J. Dent. 127 (2022), 104345, https://doi.org/10.1016/J.JDENT.2022.104345.
+[17] F. Preda, N. Morgan, A. van Gerven, F. Nogueira-Reis, A. Smolders, X. Wang,
+S. Nomidis, E. Shaheen, H. Willems, R. Jacobs, Deep convolutional neural network- based automated segmentation of the maxillofacial complex from cone-beam computed tomography: a validation study, J. Dent. 124 (2022), https://doi.org/ 10.1016/J.JDENT.2022.104238, 104238.
+[18] H. Mohammad-Rahimi, S.R. Motamedian, M.H. Rohban, J. Krois, S.E. Uribe,
+E. Mahmoudinia, R. Rokhshad, M. Nadimi, F. Schwendicke, Deep learning for caries detection: a systematic review, J. Dent. 122 (2022), 104115, https://doi. org/10.1016/J.JDENT.2022.104115.
+[19] F. Jiang, Y. Guo, C. Yang, Y. Zhou, Y. Lin, F. Cheng, S. Quan, Q. Feng, J. Li, Artificial intelligence system for automated landmark localization and analysis of cephalometry, Dentomaxillofacial Radiol. 52 (2023), 20220081, https://doi.org/ 10.1259/DMFR.20220081.
+[20] G. Dot, T. Schouman, S. Chang, F. Rafflenbeul, A. Kerbrat, P. Rouch, L. Gajny, Automatic 3-dimensional cephalometric landmarking via deep learning, J. Dent.
+Res. 101 (2022) 1380¡V1387, https://doi.org/10.1177/00220345221112333.
+[21] Z. Liu, J. Liu, Z. Zhou, Q. Zhang, H. Wu, G. Zhai, J. Han, Differential diagnosis of ameloblastoma and odontogenic keratocyst by machine learning of panoramic
+
+radiographs, Int. J. Comput. Assist. Radiol. Surg. 16 (2021) 415¡V422, https://doi. org/10.1007/S11548-021-02309-0.
+[22] Z.K. Chai, L. Mao, H. Chen, T.G. Sun, X.M. Shen, J. Liu, Z.J. Sun, Improved diagnostic accuracy of ameloblastoma and odontogenic keratocyst on cone-beam CT by artificial intelligence, Front. Oncol. 11 (2022), 793417, https://doi.org/ 10.3389/FONC.2021.793417.
+[23] M.S. Bispo, M.L.G. de Queiroz Pierre, A.L. Apolin?ario, J.N. dos Santos, B.C. Junior,
+F.S. Neves, I. Cruso?e-Rebello, Computer tomographic differential diagnosis of ameloblastoma and odontogenic keratocyst: classification using a convolutional neural network, Dentomaxillofacial Radiol. 50 (2021), 20210002, https://doi.org/ 10.1259/DMFR.20210002.
+[24] J. Schindelin, I. Arganda-Carreras, E. Frise, V. Kaynig, M. Longair, T. Pietzsch,
+S. Preibisch, C. Rueden, S. Saalfeld, B. Schmid, J.Y. Tinevez, D.J. White,
+V. Hartenstein, K. Eliceiri, P. Tomancak, A. Cardona, Fiji: an open-source platform for biological-image analysis, Nat. Methods 9 (2012) 676¡V682, https://doi.org/ 10.1038/NMETH.2019.
+[25] A. Buslaev, V.I. Iglovikov, E. Khvedchenya, A. Parinov, M. Druzhinin, A.A. Kalinin, Albumentations: fast and flexible image augmentations, Information 11 (2020) 125, https://doi.org/10.3390/INFO11020125, 11 (2020) 125.
+[26] S. Prusty, S. Patnaik, S.K. Dash, SKCV: Stratified K-fold cross-validation on ML classifiers for predicting cervical cancer, Front. Nanotechnol. 4 (2022) 56, https:// doi.org/10.3389/FNANO.2022.972421/BIBTEX.
+[27] A.G. Howard, M. Zhu, B. Chen, D. Kalenichenko, W. Wang, T. Weyand, M. Andreetto, H. Adam, MobileNets: efficient convolutional neural networks for mobile vision applications, (2017). arXiv:1704.04861v1 (accessed April 16, 2023).
+[28] O. Russakovsky, J. Deng, H. Su, J. Krause, S. Satheesh, S. Ma, Z. Huang,
+A. Karpathy, A. Khosla, M. Bernstein, A.C. Berg, L. Fei-Fei, ImageNet large scale visual recognition challenge, Int. J. Comput. Vis. 115 (2015) 211¡V252, https://doi. org/10.1007/s11263-015-0816-y.
+[29] J. Redmon, A. Farhadi, YOLOv3: an incremental improvement, Comput. Sci. (2018).arXiv:1804.02767.
+[30] B.C. Russell, A. Torralba, K.P. Murphy, W.T. Freeman, LabelMe: A Database and Web-Based Tool for Image Annotation, Int J Comput Vis 77 (2007) 157¡V173, https://doi.org/10.1007/S11263-007-0090-8.
+[31] F. Chollet, & O., Keras: the python deep learning API, keras: the python deep learning API. (2020). https://keras.io/(accessed April 28, 2022).
+[32] M. Abadi, P. Barham, J. Chen, Z. Chen, A. Davis, J. Dean, M. Devin, S. Ghemawat,
+G. Irving, M. Isard, M. Kudlur, J. Levenberg, R. Monga, S. Moore, D.G. Murray,
+B. Steiner, P. Tucker, V. Vasudevan, P. Warden, M. Wicke, Y. Yu, X. Zheng, TensorFlow: a system for large-scale machine learning, in: Proceedings of the 12th USENIX Symposium on Operating Systems Design and Implementation, OSDI
+2016, 2016, pp. 265¡V283.arXiv:1605.08695.
+[33] R.R. Selvaraju, M. Cogswell, A. Das, R. Vedantam, D. Parikh, D. Batra, Grad-CAM: visual explanations from deep networks via gradient-based localization, Int. J.
+Comput. Vis. 128 (2016) 336¡V359, https://doi.org/10.1007/s11263-019-01228-7.
+[34] H. Narasimhan, W. Pan, P. Kar, P. Protopapas, H.G. Ramaswamy, Optimizing the multiclass f-measure via biconcave programming, Undefined (2016) 1101¡V1106. doi:10.1109/ICDM.2016.0143.
+[35] D. Trujillo-Gonz?alez, M. Villarroel-Dorrego, R. Toro, G. Vigil, V. Pereira-Prado,
+R. Bologna-Molina, Decompression induces inflammation but do not modify cell proliferation and apoptosis in odontogenic keratocyst, J. Clin. Exp. Dent. 14 (2022)
+100¡V106, https://doi.org/10.4317/JCED.59096.
+[36] S.N. Bhaskar, Nonsurgical resolution of radicular cysts, oral surgery, oral medicine, Oral Pathol. 34 (1972) 458¡V468, https://doi.org/10.1016/0030-4220(72)90325-8.
+[37] J. Kauffmann, L. Ruff, G. Montavon, K.-R. M?ller, The clever hans effect in
+anomaly detection, (2020) arXiv:2006.10609.
+[38] M.T. Ribeiro, S. Singh, C. Guestrin, Why should I trust you?¡¨: explaining the predictions of any classifier, NAACL-HLT 2016 - 2016, in: Proceedings of the
+Conference of the North American Chapter of the Association for Computational
+Linguistics: Human Language Technologies, Proceedings of the Demonstrations Session, 2016, pp. 97¡V101.arXiv:1602.04938.
+[39] R.R. Selvaraju, M. Cogswell, A. Das, R. Vedantam, D. Parikh, D. Batra, Grad-CAM:
+visual explanations from deep networks via gradient-based localization, Int. J. Comput. Vis. 128 (2016) 336¡V359, https://doi.org/10.1007/s11263-019-01228-7.
+
+
+
+

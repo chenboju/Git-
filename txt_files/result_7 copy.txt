@@ -1,0 +1,182 @@
+Body:
+Differential diagnosis of cemento-osseous dysplasia and periapical cyst using texture analysis of CBCT | BMC Oral Health | Full Text
+Advertisement
+Search
+Search all BMC articles
+Search
+Differential diagnosis of cemento-osseous dysplasia and periapical cyst using texture analysis of CBCT
+Research
+Published:
+11 April 2024
+Differential diagnosis of cemento-osseous dysplasia and periapical cyst using texture analysis of CBCT
+,
+,
+&
+…
+Show authors
+volume
+24
+, Article number:
+442
+(
+2024
+)
+1136
+Accesses
+1
+Citations
+Abstract
+Background
+Radiolucencies found at the root apex in patients with cemento-osseous dysplasia (COD) may be mistaken for periapical cysts (PC) of endodontic origin. The purpose of this study was to examine the utility of quantitative texture analysis using cone-beam computed tomography (CBCT) to differentiate between COD and PC.
+Methods
+Patients who underwent CBCT at Wonkwang University Daejeon Dental Hospital between January 2019 and December 2022 and were diagnosed with COD and PC by clinical, radiologic, and, if necessary, histopathologic examination were included. Twenty-five patients each were retrospectively enrolled in the COD and PC group. All lesions observed on axial CBCT images were manually segmented using the open-access software MaZda version 4.6 to establish the regions of interest, which were then subjected to texture analysis. Among the 279 texture features obtained, 10 texture features with the highest Fisher coefficients were selected. Statistical analysis was performed using the Mann-Whitney U-test, Welch’s t-test, or Student’s t-test. Texture features that showed significant differences were subjected to receiver operating characteristics (ROC) curve analysis to evaluate the differential diagnostic ability of COD and PC.
+Results
+The COD group consisted of 22 men and 3 women, while the PC group consisted of 14 men and 11 women, showing a significant difference between the two groups in terms of sex (
+p
+=0.003). The 10 selected texture features belonged to the gray level co-occurrence matrix and included the sum of average, sum of entropy, entropy, and difference of entropy. All 10 selected texture features showed statistically significant differences (
+p
+<0.05) when comparing patients with COD (
+n
+=25) versus those with PC (
+n
+=25), osteolytic-stage COD (
+n
+=11) versus PC (
+n
+=25), and osteolytic-stage COD (
+n
+=11) versus cementoblastic-stage COD (
+n
+=14). ROC curve analysis to determine the ability to differentiate between COD and PC showed a high area under the curve ranging from 0.96 to 0.98.
+Conclusion
+Texture analysis of CBCT images has shown good diagnostic value in the differential diagnosis of COD and PC, which can help prevent unnecessary endodontic treatment, invasive biopsy, or surgical intervention associated with increased risk of infection.
+Background
+Cemento-osseous dysplasia (COD) is the most frequent benign fibrous lesion of the jaw andis characterized by the replacement of periapical bone with fibrous tissue, including bone and cementum-like tissue. The etiology is unknown, but the lesion is assumed to be caused by periodontal ligament cell proliferation [
+]. COD is categorized into three primary subtypes: periapical, focal, and florid. Notably, a fourth subtype, familial florid cemento-osseous dysplasia, was introduced in the updated classification in 2022 [
+].
+Periapical cysts (PC) may result from inflammation that irritates the epithelial tissue at the apex of a non-vital tooth. Teeth affected by a periapical cyst typically do not exhibit any response to pulp vitality tests, such as thermal and electrical pulp testing. A circular radiolucent area surrounds the apex of the affected tooth, and a loss of lamina dura can be observed along the adjacent root.
+Radiolucency at the root apex is a radiographic characteristic of the osteolytic stage of COD. This can be mistaken for an endodontic periapical lesion. The main difference between the two is the presence or absence of pulp vitality [
+]. However,a pulp vitality test may be unreliable or impossible if the tooth has already undergone endodontic treatment, presents pulp chamber restriction in elderly patients, has recently suffered trauma, or exhibits large restorations. Accurate differential diagnosis is important to avoid unnecessary root canal treatment and surgical intervention [
+]. A retrospective study of biopsies reported that COD was present in 27 (0.4%) of 6704 biopsies clinically diagnosed as endodontic lesions [
+].
+Texture analysis is a branch of image processing that extracts texture descriptors from images and has been used to evaluate subtle pathological changes that are not easily identified by visual inspection. It has demonstrated its capability to enhancediagnostic precision and the ability to predict prognosis [
+]. In dentistry, texture analysis using computed tomography (CT) scans, magnetic resonance imaging, and cone-beam computed tomography (CBCT) is currently being used for quantitative analysis of various diseases [
+,
+,
+]. However, to the best of our knowledge, no previous study has quantitatively used texture analysis to assess the difference between COD and PC.
+The objective of this study was to assess the diagnostic effectiveness of CBCT texture analysis in quantitatively evaluating COD and PC.
+Methods
+Ethical statement
+This study was approved by the Institutional Review Board of Daejeon Dental Hospital, Wonkwang University College of Dentistry (No. W2304/006-001).
+Patient selection
+The subjects in this study were selected from patients diagnosed with COD and PC based on radiographic, clinical, follow-up, and, if necessary, histopathologic data who underwent CBCT at Wonkwang Daejeon Dental Hospital between January 2019 and December 2022.
+The exclusion criteria for COD patients included the following: inability to undergo pulp vitality test, signs of infection, and difficult visualization due to artifacts. Of the 40 patients diagnosed with COD by an endodontist after the aforementioned clinical and radiologic evaluations, six patients were excluded because root canal treatment had already been performed, five patients were excluded because a pulp vitality test was not possible owing to severe calcification of the pulp or prosthesis, and two patients were excluded because they had displayed signs of infection. Two patients were excluded because of the presence of artifacts, which made detailed visualization of the images difficult. The exclusion criteria allowed the selection of 25 of the 40 patients diagnosed with COD. Of the patients with COD, 11 were in the osteolytic stage, while 14 were in the cementoblastic stage.
+Because all lesions in the patients with COD were located in the mandible, the same number of patients with mandibular lesions diagnosed as PC by histological examination were selected. Patients in the PC group had preoperative CBCTs taken during the same period, had teeth with no pulp vitality, and underwent a biopsy of lesions in the Daejeon Dental Hospital, Wonkwang University College of Dentistry. Twenty-five patients with the most recent clinical, radiologic, and histopathologic examinations were selected as controls.
+Image protocol
+All CBCT examinations were conducted using the Green 21 system (Vatech, Hwaseong, Korea). The following CBCT scanning parameters were used: tube voltage, 106 kV; tube current, 4.5 mA; field-of-view, 17 × 15 cm; voxel size, 0.3 mm; and acquisition time, 18 s. The image was an axially reformatted image with a thickness of 1 mm. A medical liquid crystal display monitor (Barco E-3621, Munkyoeng, Korea) was used to interpret CBCT images.
+Image analysis and assessment
+Image normalization was performed using the default settings of the open-access MaZda version 4.6 from the Institute of Electronics at the Technical University of Lodz in Poland [
+]. An oral and maxillo-facial radiologist with 9 years of experience selected the most characteristic axial image of the COD and PC and segmented each region of interest (ROI) of the selected axial images. The COD and PC groups were defined using two distinct colors, and the ROI along the outer edge of the lesion was manually polygonal outlined (Fig.
+).
+Fig. 1
+Example of region of interest placement. A 48-year-old woman with a diagnosis of cemento-osseous dysplasia (COD) (
+A
+). The cone-beam computed tomography (CBCT) image of the cementoblastic stage showed a radiopaque mass in the radiolucent lesion. Manually polygonal outline of the region of interest (ROI) along the outer side of the COD, which is indicated by the red area (
+B
+). A 52-year-old man with a diagnosis of periapical cyst (PC) (
+C
+). The CBCT image of the periapical cyst showed a radiolucent lesion with a radiopaque edge. Manually polygonal outline of the ROI along the outer side of the PC, which is indicated by the green area (
+D
+)
+In the MaZda feature selection settings, the following image analysis techniques were selected: histogram analysis, absolute gradient, gray-level run length matrix, gray-level co-occurrence matrix (GLCM), and autoregressive model. In the bitmap image file format, 279 texture features were retrieved from each ROI on CBCT images. The Fisher method was used to determine the 10 features with the largest F coefficient among them in MaZda.
+Statistical analysis
+A comparison was made between patient characteristics and texture features of patients diagnosed with COD and those with PC. Next, differences in the same texture parameters were analyzed as the difference between osteolytic-stage COD and PC and between osteolytic-stage COD and cementoblastic-stage COD. Categorical variables related to patient characteristics were examined using the Chi-square test. To assess differences between COD and PC for continuous variables based on the 10 texture features, the Student t-test, Welch’s t-test, or Mann-Whitney U test was used. The choice of test depended on the results of the Shapiro-Wilk test and F-test for continuous variables, as applicable. Wilcoxon rank-sum test was used to evaluate the difference between osteolytic-stage COD and PC and between osteolytic-stage COD and cementoblastic-stage COD using the same 10 texture features. The area under the curve (AUC) was computed following the analysis of receiver operating characteristics (ROC) curves to evaluate the predictive capacity of texture features in determining COD. The Youden index was used to establish cutoff values, and statistical significance was defined as
+p
+<0.05. All analyses were performed using R, version 3.6.3 (R Development Core Team in Auckland, New Zealand).
+Results
+The mean age of the patients with COD was 41.28 years, while that of patients with PC was 43.64 years. COD lesions were located near the root apex of 10 mandibular anterior incisors, 7 mandibular premolars, and 8 mandibular molars, whereas PC lesions were located near the root apex of 6 mandibular anterior incisors, 6 mandibular premolars, and 13 mandibular molars. No significant differences in patient characteristics were observed between the two groups, except for sex (Table
+). Approximately 88% of patients with COD were women, showing a higher prevalence in women.
+Table 1 Distribution of patient characteristics
+Table
+shows the 10 texture features selected as the largest F coefficients between COD and PC. It consists of 10 GLCMs, all of which displayed statistically significant differences between COD and PC (
+p
+<0.05).
+Table 2 Radiomics features differentiating between COD and PC
+The texture analysis comparison of osteolytic-stage COD with radiolucent lesion and PC using the same 10 texture features is presented in Table
+. All GLCM features also displayed statistically significant differences (
+p
+<0.05). Table
+shows the results of texture analysis of osteolytic- and cementoblastic-stage COD with mixed radiolucent and radiopaque lesions using the same 10 features. All GLCM features also showed statistically significant differences (
+p
+<0.05), although the differences were smaller than those in previous comparisons.
+Table 3 Radiomics features differentiating between osteolytic-stage COD and PC
+Table 4 Radiomics features differentiating between osteolytic-stage COD and cementoblastic-stage COD
+Figure
+shows the ROC curves for the 10 selected texture features for detecting COD. S(4,4) sum of average, S(1,0) sum of entropy, S(0,1) sum of entropy, S(1,0) entropy, S(0,1) entropy, S(2,0) difference of entropy, S(2,2) difference of entropy, S(3,0) difference of entropy, S(3,3) difference of entropy, and S(4,0) difference of entropy had cutoff values ≥ 0.610, 0.270, 0.300, 0.560, 0.500, 0.460, 0.530, 0.430, 0.580, and 0.570, respectively.
+Fig. 2
+Receiver operating characteristics curves of related texture features for detecting cemento-osseous dysplasia. The graph shows the Receiver operating characteristics curves of the grey-level co-occurrence matrix for predicting cemento-osseous dysplasia. COD cemento-osseous dysplasia, SumAverg, sum of average, SumEntrp, sum of entropy, DifEntrp, difference of entropy
+The diagnostic performance of radiomics features for COD detection is shown in Table
+. The AUCs of 10 radiomics parameters demonstrated high accuracy between 0.88 and 0.96.
+Table 5 Diagnostic performances of texture features to predict COD
+Discussion
+Consistent with previous studies, patients diagnosed with COD had an average age of 41.28 ± 13.07 years and were predominantly women (88%). This finding is similar to the report that COD primarily affects Asian women, especially those in their 40s and 50s [
+]. These findings support previous studies showing that hormonal factors have a complex effect on the development of the disease [
+].
+The findings of this study revealed a significant difference in texture analysis between COD and PC patients. Among 279 texture features, COD and PC revealed significant differences in 10 GLCM features. The 10 features included entropy, sum of average, sum of entropy, and difference of entropy.
+Open-access MaZda version 4.6 offers three different analysis methods: statistical, model-based (fractal or stochastic model), and image transform (Fourier, Gabor, or wavelet transforms) [
+]. The GLCM is a second-order statistical method used for texture analysis in 2D images, but it has also been extended to 3D surfaces. GLCM captures different combinations of pixel brightness values in an image and can compute features for single orientations or combine them for direction-independent analysis. However, a significant drawback is the computational cost, which can be addressed by combining GLCM with the Sobel operator to reduce processing time [
+].
+Specific orientations or directions are considered when computing GLCM features. Texture feature names include four directions and a distance from one to five. For example, we would represent a distance of two in a horizontal direction as (2,0), and a distance of two in a vertical direction as (0,2) [
+]. Both entropy (the degree of disorder between pixels in an image) and sum of entropy (the disorganization of the sum distribution of gray shades) increased in CBCT images of patients with COD. This is thought to be due to a mixture of fibrous stroma with loose fibroblasts and collagen with mineralized tissue in COD. Large differences between adjacent pixels increase non-uniformities, and thus the sum of average (a mean of the distribution of the sum of gray shades) increases in CBCT images of patients with COD. In the CBCT images of patients with COD, the difference of entropy, which represents a disorganization of the gray shade difference, increased. This is because the periapical bone of COD patients is replaced by fibrous tissue, including bone and cementum like tissue, resulting in different shades of gray for each tissue in the CBCT image.
+Although the sample size was very small, texture analysis showed a statistically significant difference between osteolytic-stage COD and PC, suggesting that the qualitative radiologic assessment was similar but the quantitative assessment was different between the two. The 10 selected variables showed a greater difference between PC and osteolytic-stage COD than the difference between the two COD stages, suggesting that the variables are diagnostically valuable indicators to differentiate COD from PC using texture analysis. This difference is thought to be due to differences in the histologic composition within the lesions. COD has fibrous tissue containing histologically woven bone or cementum-like tissue, whereas PC contains semi-solid necrotic material and cellular components due to liquefaction of epithelial cells [
+,
+]. Since the 10 texture features were selected to distinguish between CODs and PCs, we believe that the results would be different if the texture features were selected to distinguish between osteolytic-stage and cementoblastic-stage CODs.
+Depending on the stage of development of the lesion, CODs exhibit different radiologic characteristics [
+,
+]. Qualitative assessment of CBCT findings by human eyes is possible between COD and PC. However, as noted in many case reports, misdiagnoses often occur, and qualitative assessments that rely solely on the human eye can be unreliable [
+,
+,
+]. In fact, owing to the difficulty in differential diagnosis of the two, 7 of the 25 patients diagnosed with COD in this study had to undergo biopsy for confirmatory diagnosis. MDCT is believed to be more accurate than CBCT at very osteolytic stages; however, it is not the first choice because of the high radiation dose [
+]. Therefore, texture analysis using CBCT is a non-invasive method that can compensate for these shortcomings, provide a quantitative assessment, and prevent endodontic or surgical intervention.
+The ROC analysis of this study yielded 10 cutoff values for differentiating PC and COD, calculated by the Youden index. It also provided a high level of accuracy, ranging from 0.88 to 0.96. This indicates that CBCT texture analysis helps differentiate between COD and PC. Therefore, the analysis of CBCT texture features can provide a quantitative assessment of COD to prevent unnecessary endodontic or surgical intervention, thereby reducing the risk of infection from biopsy.
+CBCT evaluation has recently increased and is primarily used for COD diagnosis, as it allows three-dimensional imaging with minimal distortion, high spatial resolution, and no overlap [
+]. A comprehensive evaluation of demographic, clinical, radiologic, and follow-up information is typically used to diagnose COD [
+,
+]. A biopsy is contraindicated in these lesions because of the deposition of cementum-like tissue and reduced local vascularity, which increases the risk of infection [
+,
+,
+,
+]. Generally, COD does not require treatment because routine radiological follow-up is the preferred therapeutic modality [
+]. Therefore, many previous studies have used CBCT rather than invasive histologic biopsy to qualitatively diagnose COD [
+,
+]. The diagnosis of COD, which was previously based on a qualitative evaluation using CBCT, can be quantitatively assessed using texture analysis as a new non-invasive method to further differentiate it from PC.
+Owing to the large number of scattered rays that enter the detector, CBCT is typically not appropriate for calculating quantitative texture features [
+]. Even if the CBCT scan time is shorter than the CT scan time, the texture parameters can be affected by motion artifacts. However, some studies using CBCT texture analysis for maxillofacial diseases have been published recently [
+,
+,
+]. De Rosa et al. performed CBCT texture analysis to distinguish between a radicular cyst and a periapical granuloma [
+]. Goncalves et al. performed CBCT texture analysis to detect furcal lesions [
+]. Cost et al. performed CBCT texture analysis to analyze alveolar bone features to confirm implant stability in the maxillary edentulous area [
+]. In addition, according to earlier research, some CBCT radiomics features can be used as quantitative indicators for texture analysis [
+].
+A limitation of this study is that texture analysis was conducted using a small sample size. This is because the lesions are usually asymptomatic and are often discovered by chance on routine dental radiographs performed for other reasons. Future studies should evaluate osteolytic-stage COD using a larger sample size.
+Conclusions
+This study demonstrated quantitative differences between COD and PC using noninvasive CBCT texture analysis. Texture features can be used as a quantitative indicator for diagnosing COD and may help prevent endodontic treatment, invasive biopsy, or surgical intervention, which are associated with an increased risk of infection.
+Availability of data and materials
+The authors have full control of all primary data and have agreed to allow the journal to review the data if requested. The datasets used and/or analyzed during the current study are available from the corresponding author on reasonable request. The experimental data that support the findings of this study are available in Figshare with the identifier URL:
+.
+Abbreviations
+COD:
+cemento-osseous dysplasia
+PC:
+periapical cyst
+CBCT:
+cone-beam computed tomography
+ROI:
+region of interest
+ROC:
+receiver operating characteristic
+GLCM:
+gray level co-occurrence matrix
+AUC:
+area under the curve

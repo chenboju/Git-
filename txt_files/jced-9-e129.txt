@@ -1,0 +1,214 @@
+Journal section: Operative Dentistry and Endodontics Publication Types: Research
+
+doi:10.4317/jced.53196 http://dx.doi.org/10.4317/jced.53196
+
+Clinical and radiological analysis of a series of periapical cysts and periapical granulomas diagnosed in a Brazilian population
+
+Daniel-Petitet Tavares 1, Janderson-Teixeira Rodrigues 2, Teresa-Cristina-Ribeiro-Bartholomeu dos Santos 3, Luciana Armada 4, F?bio-Ram?a Pires 4
+
+
+1 DDS, Post graduation Program in Dentistry, Est?cio de S? University
+2 DDS, MSc, Post graduation Program in Dentistry, Est?cio de S? University
+3 DDS, MSc, Professor, Oral Pathology, State University of Rio de Janeiro
+4 DDS, MSc, PhD, Professor, Post graduation Program in Dentistry, Est?cio de S? University
+
+
+Correspondence:
+Est?cio de S? University
+Av. Alfredo Baltazar da Silveira 580 cobertura ¡V CEP 22790-701
+Recreio dos Bandeirantes - Rio de Janeiro/RJ, Brazil ramoafop@yahoo.com
+
+
+
+Received: 29/04/2016 Accepted: 22/05/2016
+
+
+
+
+
+
+
+Tavares DP, Rodrigues JT, dos Santos TCRB, Armada L, Pires FR. Clinical and radiological analysis of a series of periapical cysts and peria- pical granulomas diagnosed in a Brazilian population. J Clin Exp Dent. 2017;9(1):e129-35.
+http://www.medicinaoral.com/odo/volumenes/v9i1/jcedv9i1p129.pdf
+
+
+
+Abstract
+Background: Periapical cysts (PC) and periapical granulomas (PG) are the two most common chronic inflammatory periapical diseases, but their clinicoradiological characteristics can vary depending on the methods employed in each study. The aim of the present work was to analyze the clinical and radiological profile of a series of PC and PG diagnosed in a Brazilian population.
+Material and Methods: The files of two Oral Pathology laboratories were reviewed and all cases diagnosed as PG and PC were selected for the study. Clinical and radiological information were retrieved and data were tabulated and descriptively and comparatively analyzed.
+Results: Final sample was composed by 647 inflammatory periapical lesions, including 244 PG (38%) and 403 PC (62%). The number of women affected by PG was significantly higher than the number of women affected by PC (p=0.037). Anterior region of the maxilla was the most common affected area for both entities (39% of the cases), but the most common anatomical location of PG (anterior maxilla and posterior maxilla) was different from PC (anterior maxilla and posterior mandible) (p<0.0001). Upper lateral incisor was the most affected tooth. The mean radiological size of the PC was larger than the mean radiological size of the PG (p<0.0001) and PC showed well- defined radiological images more frequently than PG (p<0.0001).
+Conclusions: PC were more common than PG, both showed predilection for adult females, most lesions affected predominantly the anterior maxilla and PC presented larger mean radiological diameter and well-defined images when compared with PG.
+
+Key words: Periapical granuloma, periapical cyst, radicular cyst, diagnosis, Oral Pathology.
+
+Introduction
+Periapical granulomas (PG) and periapical cysts (PC) are considered the most common periapical intraosseous chronic diseases. Their origin is associated with pulp infection and necrosis due to the presence of micror- ganisms and progression of the infectious and inflam- matory process to the periapical region. Several studies have been performed in order to detail the clinical, ana- tomical and radiological characteristics of PG and PC in large series, but results show a wide variation due to specific loco-regional features and methodological limi- tations from each study (1-10).
+Few informations are available about the frequency and epidemiological distribution of PG and PC in Brazilian populations and their similarities and differences compa- ring with other populations. Thus, the aim of the present study was to descriptively and comparatively analyze the clinical and radiological features from a series of PG and PC diagnosed in two Oral Pathology laboratories in Rio de Janeiro, Brazil.
+
+Material and Methods
+The files of the Oral Pathology laboratories, Est?cio de S? University and State University of Rio de Janeiro, were reviewed, respectively, from 1998 to 2013 and from 2005 to 2013, and all cases diagnosed as PG and PC were selected. All cases were obtained through sur- gical procedures (periapical surgery or extraction) and the specimens were immersed on 10% buffered formalin for laboratorial processing, including basic routine steps and final analysis of 5 ?m hematoxylin and eosin stained sections on histological slides through light microscopy. All cases were histologically reviewed to confirm diag- nosis and only the cases presenting histological, clinical and radiological features allowing final diagnosis as PG or PC were included. Histologically, PG were charac- terized by the presence of a fibrous connective tissue containing a granulation tissue with small blood vessels, fibroblasts and chronic inflammatory cells, mostly lym- phocytes, plasma cells and macrophages. PC showed similar features than PG associated with the presence of a complete or partial cystic cavity lined by a non-kerati- nizing squamous stratified epithelium of variable thick- ness showing exocytosis (11). In some cases, apart from the above described features, both PG and PC showed a mixed inflammatory infiltrate, with a prominent neu- trophilic infiltrate. Exclusion criteria were the existence of tissue samples insufficient for final correct diagnosis, highly fragmented specimens difficulting analysis of the epithelial lining, laboratory forms containing no clinical and radiological information and cases in which final diagnosis changed to other conditions apart from PG and PC after histological review.
+All laboratory forms from the selected cases were re- viewed and information about gender, age, anatomical
+
+location of the lesions (anterior or posterior mandible, anterior or posterior maxilla), teeth associated with the lesions, time of complaint, local swelling, symptoms (pain and/or purulent discharge), radiological limits of the lesions (well or ill defined, according with the pre- sence of a border of bone sclerosis), largest radiological diameter of the image (in milimeters) and final diagnosis (PG or PC).
+Data were descriptively and comparatively analyzed through the use of the software Statistical Program for Social Sciences (SPSS, version 17, Chicago, Illinois, United States), considering 5% (p<0.05) as the signifi- cance level and using chi-square and T test. The study protocol was submitted to and approved by the Ethics in Research Committee from the State University of Rio de Janeiro and approved under the number 536.544.
+Results
+Final sample was composed by 647 inflammatory pe- riapical lesions, including 244 PG (38%) and 403 PC (62%). Females represented 56% of the sample, and 61% and 53% of the patients affected by periapical granulomas and periapical cysts, respectively (p=0.037). Mean age of the patients was 41.5 years, ranging from 5 to 90 years.
+Anatomical distribution of the lesions showed that 39% of them affected the anterior maxilla, followed by the posterior mandible (28%) and posterior maxilla (23%). PG affected mostly the anterior maxilla (34%) followed by the posterior maxilla (32%) while PC were diagnosed mainly in the anterior maxilla (43%) and posterior man- dible (28%) (p<0.0001) (Table 1). Anatomical location of PG and PC did not show statistical significant diffe- rence when comparing males and females (p=0.210). The upper right lateral incisor (60 cases, 11%) was the most affected tooth, followed by the upper left lateral incisor (56 cases, 10%), lower right first molar (46 cases, 8%), upper right central incisor (40 cases, 7%), lower left first molar (35 cases, 6%) and upper left central in- cisor (32 cases, 6%).
+Time of complaint was reported in 77 cases and showed a mean of 31.6 months (ranging from 1 to 240 months) with no statistically significant difference on the mean time of complaint of PG (19 cases, 37.9 months) and PC (58 cases, 29.6 months) (p=0.460). The presence of symptoms was reported in 207 cases and there was no statistically significant difference when comparing the number of asymptomatic and symptomatic PG and PC (p=0.287). Local swelling was reported in 132 cases and there was no statistically significant difference when comparing PG and PC presenting local swelling or no (p=0.468).
+A total of 394 cases presented adequate radiographs for analysis and great diameter of the lesions ranged from 1 to 70 mm (mean of 13 mm). Mean size of PG (n=158)
+
+Table 1. Anatomical distribution of the periapical granulomas and cysts.
+
+Anatomical location *TotalPG **PC ***Anterior maxilla231 (39%)76 (34%)155 (43%)Posterior maxilla132 (23%)71 (32%)61 (17%)Anterior mandible44 (8%)10 (4%)34 (9%)Posterior mandible169 (28%)66 (29%)103 (28%)Maxilla (not specified)6 (1%)1 (0.5%)5 (1.5%)Mandible (not specified)6 (1%)1 (0.5%)5 (1.5%)Total588 (100%)225 (100%)363 (100%)* p<0.0001 (Chi-square); ** PG - periapical granuloma; *** PC - periapical cyst.
+
+
+was 8.24 mm, in comparison with mean size of 16.24 mm for PC (n=236) (p<0.0001). Radiological limits of the lesions were evaluated in 200 cases and 148 (74%) and 52 cases (26%) showed, respectively, well and ill defined images. PG (n=41) were considered well defined in 25 cases (61%), while PC (n=159) were considered well defined in 123 cases (77%) (p=0.033). Gross in- formation of the submitted specimens showed that their mean size ranged from 4 and 21.000 mm3 (mean of 891 mm3) and the mean size of PG (316.12 mm3) was lower than PC (1260.11 mm3) (p=0.0001). Presence of the en- dodontic treatment was observed in 206 cases.
+Comparative analysis of the mean age of the patients by gender, presence of symptoms, presence of local swe- lling, radiological limits of the lesions and final diagno- sis showed that there was a statistically significant diffe- rence only when comparing patients presenting lesions with well or ill defined radiological limits (Table 2).
+
+Table 2. Mean age of the patients affected by periapical granulomas and cysts according with gender, presence of symptoms, presence of local swelling radiological limits and final diagnosis.
+
+ParameterMean age (years)P *Gender
+Males (n=238)
+Females (n=305)
+40.8
+42.1
+0.314Presence of symptoms
+No (n=93) Yes (n=100)
+38.3
+42.8
+0.043Local swelling
+No (n=32)
+Yes (n=96)
+40.7
+38.3
+0.477Radiological limits
+Well-defined (n=142) Ill-defined (n=50)
+38.2
+45.8
+0.006Final diagnosis
+¡@Periapical granuloma (n=204)
+Periapical cyst (n=339)
+42.8
+40.8
+0.151* T test.
+
+Discussion
+PC are inflammatory odontogenic cysts that represent from 35 to 87% of all odontogenic cysts, when analyzing studies derived from different worldwide populations (Table 3). Previous studies showed that PC have not gender predilection or a slight male preference, most affected patients are in the third to fifth decades of life and the maxilla, especially the anterior region, is the site of predilection for the lesions (12-26). Studies derived from Brazilian populations have shown similar results (27-29).
+Several studies have focused the clinico-radiological profile of inflammatory periapical lesions, but results can be conflictant and show a wide range of variation, due to the different methods used and particularities from the studied population. The only accepted criteria for relia- ble differentiation of PG and PC is histological analysis, so all studies used for comparison are based on samples submitted to microscopical evaluation (7,11,21). PG are considered the most common inflammatory periapical lesions, representing up to 77% of the samples, and PC represent from 15 to 46% of the cases (Table 4) (1-10). In addition, Stockdale & Chandler (2) reported a review of the published papers from 1954 and 1980 and showed that the frequencies of PC ranged from 7 to 54% and the frequencies of PG ranged from 45 to 93% of the cases. All these previously published samples do not reflect the true incidence of PC and PG in each population, as the results are based on the inflammatory periapical diseases that were surgically managed and submitted for histolo- gical evaluation (lesions associated with extracted teeth or derived from periapical surgery), leaving selection biases, and did not include the cases that responded fa- vorably to conventional non-surgical endodontic thera- py alone. However, studies based on these methods are the only source for reliable differentiation between PG and PC (8).
+Several methodological reasons can be listed to explain the diversity of the published results and the difficulties in comparing results from different sources. Simon (1) and Nair et al. (5) studied the frequency of inflammatory periapical diseases adhered to the roots of extracted tee- th, not including lesions derived from periapical surgery
+
+Table 3. Frequency and age, gender and anatomical distribution of inflammatory periapical cysts reported in the literature from 2006 to 2014.
+
+AuthorsYearCountryOCPCDLM:FMax:MandJONES et al. (12)2006United Kingdom71213724 (52%)-1.1:12.4:1MENINGAUD et al. (13)2006France695372 (54%)5a1.7:11:2.2GROSSMANN et al. (27)2007Brazil28121772 (63%)3? e 4?0.9:11:1OCHSENIUS et al. (14)2007Chile29441494 (51%)3?0.9:11.2:1TORTORICI et al. (15)2008Italy12731107 (87%)4?1.2:11.2:1AVELAR et al. (28)2009Brazil507256 (52%)3? e 4?1.3:11:1NU?EZ-URRUTIA et al. (16)2010Spain418210 (50%)3a e 4a1.4:11.3:1SOUZA et al. (29)2010Brazil1026626 (61%)4?0.5:11.2:1RAMACHANDRA et al. (17)2011?ndia201101 (50%)4a1.8:11.9:1SHARIFIAN &KHALILI (18)2011Iran1227465 (38%)3?1.3:11.5:1A?IKGOZ et al. (19)2012Turkey452251 (56%)4a1.1:11.4:1SELVAMANI et al. (20)2012?ndia153106 (69%)2a e 3a0.9:11.4:1TEKKESIN et al. (21)2012Turkey50032802 (56%)4?1.2:11.6:1JOHNSON et al. (22)2013Australia540247 (46%)5a1.2:11.2:1KHORASVI et al. (23)2013Iran1603563 (35%)3? e 4?1.2:11.5:1DEL CORSO et al. (24)2014Italy1117538 (48%)5?1.5:10.6:1DEMIRKOL et al. (25)2014Turkey14894 (63%)4a1:1.21.5:1* OC - Odontogenic cysts; PC - Periapical cyst; DL - Decades of life; M:F - male to female ratio; Max:Mand - Maxilla:Mandible.
+
+
+
+of surgical procedures in which the tooth is submitted separated from the lesion. Besides that, this method is capable of classifying the removed cysts in ¡§true¡¨ (cyst cavity without direct contact with the tooth apex) or ¡§bay/ pocket (cyst cavity in direct contact with the tooth apex) cysts. Nobuhara & Del Rio (4) included only inflamma- tory periapical lesions associated with teeth with failure in the conventional endodontic, while Vier & Figueiredo
+(6) included only inflammatory periapical lesions asso- ciated with teeth without endodontic treatment. Love & Firth (8) have shown that the frequency of PC did not depend on the condition of the associated teeth (primary or secondary canal infection) in teeth with persistent in- flammatory periapical disease.
+The results of the present study showed that PC were more common than PG, but this can be at least partia- lly explained by the fact that some small inflammatory periapical lesions can be lost/deteriorated during labora- tory processing or not submitted to laboratorial analysis
+
+by the clinicians/oral surgeons/endodontists responsible for the surgical procedure. This bias can reduce the num- ber of small inflammatory periapical lesions diagnosed and, consequently, favoring a relative increasing of the number of PC. Other important aspect is associated with the expected more favorable biological response of sma- ller periapical lesions to conventional non-surgical en- dodontic treatment. Although there is no definitive bio- logical evidence that PG respond better to conservative non-surgical management when comparing with PC, it is supposed that, as the former preceeds the latter, the possibility of favorable biological response is greater with PG. Thus, inflammatory periapical lesions sub- mitted to surgical management, and consequent histo- logical analysis, are preferentially the ones refractory to conventional endodontic treatment, including PC more commonly than PG.
+Stockdale & Chandler (2) demonstrated that when the clinico-radiological hypothesis was PC, histological
+
+Table 4. Frequency and gender, age and anatomical distribution of inflammatory periapical diseases reported in the literature.
+
+Author and yearCountryNPeriapical granulomas *Periapical cysts *Other **NAgeM:FMax:
+MandNAgeM:FMax:
+MandSimon (1)United
+States3527
+(77%)NS ***NSNS6
+(17%)NSNSNS2 (6)%Stockdale & Chandler,
+1988 (2)United
+Kingdom1108856
+(77%)3rd-4th1:1.25.4:1186
+(17%)3rd-4th1:1.17.1:166 (6%)Stapafore et al. 1990 (3)United
+States1659864
+(52%)NSNSNS696
+(42%)NSNSNS99 (6%)Nobuhara & Del Rio,
+1993 (4)United
+States15088
+(59%)NSNS2.8:133
+(22%)NSNS3.7:129 (19%)Nair et al. 1996 (5)Switzerland256127
+(50%)NSNSNS39
+(15%)NSNSNS90 (35%)Vier & Figueiredo, 2002
+(6)Brazil10212
+(12%)NSNSNS25
+(24%)NSNSNS65 (64%)Carrillo et al. 2008 (7)Spain7046
+(66%)NSNSNS6 (8%)NSNSNS18 (26%)Love & Firth, 2009 (8)New
+Zealand10077
+(77%)47.91:1.16.5:118
+(18%)44.81:28:15 (5%)Becconsall-Ryan et al.
+2010 (9)New
+Zealand33312165
+(65%)461:1.13.1:11057
+(32%)431.1:12.2:1109 (3%)Lin et al. 2010 (10)Taiwan252128
+(51%)43.11:2.33.6:1117
+(46%)44.31:1.32.1:17 (3%)Tavares et al. present
+studyBrazil647244
+(38%)42.81:1.61.9:1403
+(62%)40.81:1.11.6:1None* Age - mean age (years) or decades of life; M:F ¡V male to female ratio; Max:mand ¡V maxilla:mandible; ** Including periapical abscesses and
+scars; *** NS - not specified.
+
+
+diagnosis was correct in 41% of the cases, while when the hypotheses was PG this value was 81%. Becconsall- Ryan et al. (9) showed that for the cases with a clinico- radiological provisional diagnosis of PG or PC, histolo- gical diagnosis confirmed the clinical suspicion in 72% and 50% of the cases, respectively, reinforcing that im- portance of submitting all specimens derived from peria- pical surgery to histological analysis.
+Another methodological bias that could influence the results from different studies is the criteria used for histological classification of the inflammatory periapi- cal lesions. Some studies have classified PG with acute inflammatory infiltrate as periapical abscesses and not as PG, rising the number of periapical abscesses (5,6). In the present sample, PG and PC that fulfilled the ne- cessary histological criteria, even when associated with the presence of an acute inflammatory infiltrate sugges- tive of abscess formation, were classified as PC or PG. Additionally, Nobuhara & Del Rio (4) considered as PG the cases showing a connective tissue with peripheral proliferation of epithelium with no clear identification of a cyst cavity. Some of the images included on this particular study showed histological sections that would
+
+be possibly classified as PC by many oral pathologists, reinforcing the difficulties in establishing the proper his- tological criteria for this group of lesions.
+One of the limitations of the studies evaluating the fre- quency of histologically diagnosed PG and PC is that some PG could in fact be PC that were correctly evalua- ted due to inadequate splicing or PC with small cavities that were not included on the sectioning axis. Serial sec- tioning is advisable to reduce these biases but, although they can be used in experimental studies, they shoud be used with caution in specimens derived from routine la- boratorial diagnosis due to ethical and legal issues (5). In addition, most of the samples sent for routine histo- logical analysis are composed by multiple fragmented specimens derived from surgical curettage, difficulting the identification of the epithelial-lining cystic cavity. Although females were most affected by both PG and PC in the present sample, in accordance with the litera- ture, these entities usually do not show any marked gen- der predilection (2,4,7,8,10). Mean age of the patients affected by PG and PC are in the fourth to fifth decades of life, in accordance with the results of the present stu- dy (2,4,7-10). The prevalence of these entities for pa-
+
+tients in these age groups is probably associated with the progression of the infections on the root canal system, inadequate endodontic treatment/retreatment and need of extractions due to decays and periodontal disesase in teeth with concomitant endodontic involvement.
+The anterior maxilla was the most affected region by both PG and PC, similarly to the data retrieved from the literature (2-4,8-10). Meningaud et al. (13) and Del Cor- so et al. (24) reported that PC predominantly affected the mandible, in contrast with most published studies. Our results showed that the distribution of the anatomi- cal location comparing PG and PC was significantly di- fferent. The reasons that lead to this distinct anatomical distribution are unknown, but one could speculate that PC are more common in the posterior mandible becau- se clinicians and endodontists indicate extractions more frequently than endodontic treatment to molars with large periapical lesions due to technical difficulties. The most affected teeth were the upper lateral incisors, the upper central incisors and the lower first molars, in ac- cordance with the literature (2,10,11). The predilection for upper lateral incisors can be justified by the high fre- quency of caries, fillings and dentoalveolar trauma on these teeth, apart from the presence of a wide range of anatomical variations (apical curves, accessory channels and apical deltas), difficulting complete microrganisms removal and adequate obturation of the pulp chamber
+(2). The presence of signs and symptoms associated with PG and PC, such as pain, local swelling and purulent discharge, showed no statistically significant differences when comparing PG and PC from the present sample.
+It has been accepted that most inflammatory periapical diseases respond to conventional non-surgical endodon- tic therapy and, as the exact pathogenesis of PG and PC is still unknown, the mechanisms that modulate their formation are incompletely described (30). The most ac- cepted theory considers that the epithelial odontogenic remnants on the periodontal ligament (epithelial rests of Malassez) proliferate in response to the inflammatory sti- muli derived from the persistent intraradicular infection. Cytokines and growth factors secreted by the compo- nents of the granulation tissue that characterizes the PG stimulate the epithelial proliferation up to the formation of central areas of degeneration on the proliferative epi- thelial islands, leading to the development of the cystic cavity (30). Therefore, it has been accepted that PC are originated from PG, but it is not known which PG will progress to PC. Both PG and PC are radiologically cha- racterized by well defined unilocular radiolucent areas associated with the periradicular region from a non-vital tooth (10). Due to the previously cited accepted theory for development of PC, they tend to be larger and to show a peripheral area of bone sclerosis more frequently than PG (6,7), both features in accordance with the pre- sent results.
+
+The results from the present study showed that PC were more common than PG and that both entities were more common in females on their fourth to fifth decades of life. The number of females affected by PG was higher than affected by PC and the anterior maxilla was the most common affected site by both PG and PC, with the upper lateral incisor as the most affected tooth. PC were radiologically larger in comparison to PG and showed well-defined limits more frequently than the latter.
+References
+1. Simon JH. Incidence of periapical cysts in relation to the root canal.
+J Endod. 1980;6:845-8.
+2. Stockdale CR, Chandler NP. The nature of the periapical lesion ¡V a
+review of 1108 cases. J Dent. 1988;16:123-9.
+3. Stapafore CM, Griffin JA Jr, Keyes GG, Wearden S, Skidmore AE. Periapical biopsy report: an analysis of over a 10-year period. J Endod. 1990;16:239-41.
+4. Nobuhara WK, del Rio CE. Incidence of periradicular pathoses in
+endodontic treatment failures. J Endod. 1993;19:315-8.
+5. Nair PN, Pajarola G, Schroeder HE. Types and incidence of human periapical lesions obtained with extracted teeth. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 1996;81:93-102.
+6. Vier FV, Figueiredo JA. Prevalence of different periapical lesions associated with human teeth and their correlation with the presen- ce and extension of apical external root resorption. Int Endod J. 2002;35:710-9.
+7. Carrillo C, Penarrocha M, Ortega B, Mart? E, Bag?n JV, Vera F. Correlation of radiographic size and the presence of radiopaque lamina with histological findings in 70 periapical lesions. J Oral Maxillofac Surg. 2008;66:1600-5.
+8. Love RM, Firth N. Histopathological profile of surgically removed persistent periapical radiolucent lesions of endodontic origin. Int En- dod J. 2009;42:198-202.
+9. Becconsall-Ryan K, Tong D, Love RM. Radiolucent inflammatory jaw lesions: a twenty-year analysis. Int Endod J. 2010;43:859-65.
+10. Lin HP, Chen HM, Yu CH, Kuo RC, Kuo YS, Wang YP. Clinico- pathological study of 252 jaw bone periapical lesions from a private pathology laboratory. J Formos Med Assoc. 2010;109:810-8.
+11. Schulz M, von Arx T, Altermatt HJ, Bosshardt D. Histology of peria- pical lesions obtained during apical surgery. J Endod. 2009;35:634-42.
+12. Jones AV, Craig GT, Franklin CD. Range and demographics of odontogenic cysts diagnosed in a UK population over a 30-year pe- riod. J Oral Pathol Med. 2006;35:500-7.
+13. Meningaud JP, Oprean N, Pitak-Arnnop P, Bertrand JC. Odontoge-
+nic cysts: a clinical study of 695 cases. J Oral Sci. 2006;48:59-62.
+14. Ochsenius G, Escobar E, Godoy L, Pe?afiel C. Odontogenic cysts: analysis of 2.944 cases in Chile. Med Oral Patol Oral Cir Bucal. 2007;12:E85-91.
+15. Tortorici S, Amodio E, Massenti MF, Buzzanca ML, Burruano F, Vitale F. Prevalence and distribution of odontogenic cysts in Sicily: 1986-2005. J Oral Sci. 2008;50:15-8.
+16. Nu?ez-Urrutia S, Figueiredo R, Gay-Escoda C. Retrospective cli- nicopathological study of 418 odontogenic cysts. Med Oral Patol Oral Cir Bucal. 2010;15:e767-73.
+17. Ramachandra P, Maligi P, Raghuveer H. A cumulative analysis of odontogenic cysts from major dental institutions of Bangalore city: a study of 252 cases. J Oral Maxillofac Pathol. 2011;15:1-5.
+18. Sharifian MJ, Khalili M. Odontogenic cysts: a retrospective study of 1227 cases in an Iranian population from 1987 to 2007. J Oral Sci. 2011;53:361-7.
+19. A?ikg?z A, Uzun-Bulut E, ?zden B, G?nd?z K. Prevalence and distribution of odontogenic and nonodontogenic cysts in a Turkish po- pulation. Med Oral Patol Oral Cir Bucal. 2012;17:e108-15.
+20. Selvamani M, Donoghue M, Basandi PS. Analysis of 153 cases of odontogenic cysts in a South Indian sample population: a retrospective study over a decade. Braz Oral Res. 2012;26:330-4.
+
+21. Tekkesin MS, Olgac V, Aksakalli N, Alatli C. Odontogenic and nonodontogenic cysts in Istanbul: analysis of 5088 cases. Head Neck. 2012;34:852-5.
+22. Johnson NR, Savage NW, Kazoullis S, Batstone MD. A prospec- tive epidemiological study for odontogenic and non-odontogenic le- sions of the maxilla and mandible in Queensland. Oral Surg Oral Med Oral Pathol Oral Radiol. 2013;115:515-22.
+23. Khosravi N, Razavi SM, Kowkabi M, Navabi AA. Demographic distribution of odontogenic cysts in Isfahan (Iran) over a 23-year pe- riod (1988-2010). Dent Res J (Isfahan). 2013;10:162-7.
+24. Del Corso G, Righi A, Bombardi M, Rossi B, Dallera V, Pelliccioni GA, et al. Jaw cysts diagnosed in an Italian population over a 20-year period. Int J Surg Pathol. 2014;22:699-706.
+25. Demirkol M, Ege B, Yanik S, Aras MH, Ay S. Clinicopatholo- gical study of jaw cysts in southeast region of Turkey. Eur J Dent. 2014;8:107-11.
+26. Johnson NR, Gannon OM, Savage NW, Batstone MD. Frequency of odontogenic cysts and tumors: a systematic review. J Investig Clin Dent. 2014;5:9-14.
+27. Grossmann SM, Machado VC, Xavier GM, Moura MD, Gomez RS, Aguiar MC, et al. Demographic profile of odontogenic and selec- ted nonodontogenic cysts in a Brazilian population. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2007;104:e35-41.
+28. Avelar RL, Antunes AA, Carvalho RW, Bezerra PG, Oliveira Neto PJ, Andrade ES. Odontogenic cysts: a clinicopathological study of 507 cases. J Oral Sci. 2009;51:581-6.
+29. de Souza LB, Gord?n-N?-ez MA, Nonaka CF, de Medeiros MC, Torres TF, Emiliano GB. Odontogenic cysts: demographic profile in a Brazilian population over a 38-year period. Med Oral Patol Oral Cir Bucal. 2010;15:e583-90.
+30. Lin LM, Huang GT, Rosenberg PA. Proliferation of epithelial cell rests, formation of apical cysts, and regression of apical cysts after periapical wound healing. J Endod. 2007;33:908-16.
+
+Acknowledgements
+This study was supported by grants from Funda??o Carlos Chagas Filho de Amparo ? Pesquisa do Estado do Rio de Janeiro (FAPERJ) and Conselho Nacional de Desenvolvimento Cient?fico e Tecnol?gico (CNPq), Brazilian Governmental Institutions.
+
+Conflict of Interest
+The authors deny any conflicts of interest.
+
+
+
+
+
+
+
+

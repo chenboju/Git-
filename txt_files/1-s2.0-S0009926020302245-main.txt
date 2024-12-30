@@ -1,0 +1,245 @@
+Clinical Radiology 75 (2020) 675e687
+
+
+
+
+
+
+
+
+Pictorial Review
+The many faces of periapical inflammation
+R. Boeddinghaus a,b,*, A. Whyte a,b,c
+a Perth Radiological Clinic, 127 Hamersley Rd, Subiaco, WA, 6008, Australia
+b Department of Surgery, University of Western Australia, Nedlands, WA, 6009, Australia
+c Departments of Medicine and Radiology, University of Melbourne, Carlton, Victoria, 3000, Australia
+
+
+
+Dental periapical inflammation is common and can present with a wide variety of symptoms and signs. These include jaw pain and local soft-tissue inflammation, which may be obviously dental in origin; however, the presentation may also be with a painless mass or draining cutaneous sinus, with facial or ear pain or with symptoms of sinusitis, when the dental cause is not clinically obvious. Radiologists are often the first to recognise the dental source of symptoms in these cases. This recognition requires an awareness of the varied manifestations of periapical sepsis and careful systematic review of the teeth and jaws. The causative peri- apical lesion may be small and subtle, and there is not always a macroscopic defect in the cortical bone between the lesion and surrounding soft-tissue inflammation. The origin of the referral and the initial imaging technique used can vary. Dental periapical inflammation can also be an incidental finding on imaging. In these cases, it should not be mistaken for more sinister pathology and its presence should be conveyed to the referrer so that appropriate dental treatment can be initiated: this is especially important in patients with malignancy in whom radiotherapy is planned. In cases of severe odontogenic soft-tissue sepsis, a review of the airway and major blood vessels is important. We present cases to illustrate the wide range of clinical and radiological manifestations of periapical inflammatory pathology.
+? 2020 The Royal College of Radiologists. Published by Elsevier Ltd. All rights reserved.
+
+
+
+
+
+Introduction
+
+¡@Periapical inflammation is common and can present with a wide variety of local and regional complications and symptoms, or be asymptomatic. The radiologist may be the first to recognise dental inflammation as the cause of a patient¡¦s presentation, allowing the patient to be directed towards appropriate treatment.
+¡@Infection usually reaches the periapical region of a tooth root from infected, necrotic pulp in the crown of the tooth, via the root canal and apical foramen, causing periapical
+
+osteitis (also known as apical periodontitis), periapical ab- scess or periapical granuloma formation.1 A periapical (radicular) cyst is a post-inflammatory sequela (which can itself become secondarily infected) and if the non-vital tooth is removed this can remain, when it is known as a residual cyst. Periapical osteitis and periapical abscess are generally acute lesions, typically painful, whereas a peri- apical granuloma is a chronic inflammatory lesion, often painless or with low-grade intermittent symptoms, and a periapical cyst is also usually asymptomatic unless it be- comes large enough to present with mass effect. These le- sions cannot be reliably differentiated from one another on
+
+
+
+* Guarantor and correspondent: R. Boeddinghaus, Perth Radiological Clinic, 127 Hamersley Rd, Subiaco, WA, 6008, Australia.
+E-mail address: rboeddinghaus@perthradclinic.com.au (R. Boeddinghaus).
+
+https://doi.org/10.1016/j.crad.2020.06.009
+0009-9260/? 2020 The Royal College of Radiologists. Published by Elsevier Ltd. All rights reserved.
+
+
+
+Figure 1 Incidental PET-detected periapical lesion. A 79-year-old man with a history of malignant melanoma, with a previous adrenal metastasis, was referred by an oncologist for a surveillance PET-CT (a). An intensely FDG-avid lesion was shown in the right anterior mandible (arrow). A CT of the mandible (b) was subsequently performed to exclude a metastasis: this showed the lesion to be a small PIL (arrow) related to the previously root-filled lower right canine (43), with surrounding reactive sclerosis in the anterior alveolar bone. With hindsight, this was also clear on the low-dose CT performed with the PET (not shown). Note: numbering of teeth in this review follows the International Dental Federation (FDI) system. The first digit represents the quadrant (1 being upper right, 2 upper left, 3 lower left and 4 lower right). The second digit is the tooth counting from mesial to distal, such that, for example, 3 is always a canine, 8 is always a third molar and so on.
+
+
+
+radiographs, computed tomography (CT) or cone beam CT (CBCT), although generally the acute lesions are ill-defined and the chronic lesions better defined, and larger lesions are usually periapical cysts rather than granulomas (most
+periapical lucencies >15 mm will be periapical cysts). The term ¡§periapical inflammatory lesion¡¨ (PIL) is therefore a
+useful one to include all of these lesions; the term ¡§peri- apical radiolucency of inflammatory origin¡¨ or ¡§PRIO¡¨ is also used.2 The main differential diagnosis for a lucency centred on the apex of a tooth is periapical osseous dysplasia (formerly periapical cemental dysplasia), an asymptomatic lesion found radiographically as a lucency (later filling in with sclerosis from the centre) usually associated with a vital anterior mandibular tooth.
+¡@Infection can also reach the apex along the side of the tooth root, via a deep vertical pocket of periodontitis, when it is known as an endodontic-periodontic lesion. Severe periodontitis alone rarely causes acute severe sepsis, but pericoronitis (inflammation around the crown of a partially erupted tooth, commonly a third molar) can cause similar symptoms and acute complications to periapical sepsis and is easily overlooked.
+¡@To recognise the dental origin of soft-tissue inflamma- tory changes, it is important to note that the causative periapical inflammatory lucency may be small and subtle and that there need not be a cortical breach between this lucency and the surrounding soft-tissue inflammation.
+   
+There is a wide range in the acuity and severity of the presentation. A periapical inflammatory lesion may be an incidental asymptomatic finding, for example on CT, magnetic resonance imaging (MRI) or integrated positron-emission tomography (PET)-CT. It may present as a chronic painless mass (when the first imaging investigation requested may be an ultrasound) or an intermittently draining skin sinus. Odontogenic sinusitis is common and under-recognised. Pain is common, but may initially be attributed to many other causes, including sialadenitis, sinusitis, and trigeminal neuralgia (when MRI may be requested). There may be an acute severe presentation to the emergency department with trismus, severe neck sepsis, stridor, and life-threatening airway obstruction, or with generalised sepsis of uncer- tain source.
+
+
+Incidental imaging ?nding
+
+¡@A periapical granuloma or abscess may be detected as an intensely 2-[18F]-fluoro-2-deoxy-D-glucose (FDG)-avid focus on PET-CT performed for staging of malignancy, and a bone metastasis may be suspected. Usually, the periapical location and inflammatory nature will be apparent on the concurrent low-dose CT, but occasionally CT or CBCT of the jaw may be required to confirm this (Fig 1).
+
+
+
+
+Figure 2 Periapical lesions on cancer-staging CT and MRI. A 32-year-old man of Vietnamese extraction was referred by an ENT surgeon for MRI and CT for the staging of newly diagnosed nasopharyngeal carcinoma (NPC). (a) An axial post-gadolinium T1-weighted MRI image shows a small enhancing PIL (granuloma: arrow) related to the upper right central incisor tooth (11). (b) Bone-algorithm CT at the same level shows the PIL, with dehiscence of the overlying labial cortex (arrow). (c) Several weeks later, he was referred for DPT by an oral surgeon who was planning third molar extractions before the commencement of radiotherapy. The periapical lucency associated with 11 is not visible on DPT (dashed arrow). Periapical lesions of the anterior teeth are often occult on DPT because the anterior jaws are frequently not centred in the focal trough; maxillary molar periapical lesions are also often occult on DPT because of air in the maxillary sinus floors. A small lucency is seen adjacent to the distal root apex of the root-filled lower left first molar (36; dotted arrow), which had also been visible on the CT and the MRI (not shown), and 36 was extracted before radiotherapy. Arrowheads in (a) show metastatic retropharyngeal lymph nodes.
+
+
+¡@When interpreting neck CT examinations for the stag- ing of head and neck malignancy (most commonly squa- mous cell carcinoma [SCC] of the upper aerodigestive tract), the dentition (particularly periapical lesions and deep periodontal pocketing) is an important review area using thin, bone algorithm reconstructions. Failure to recognise and treat dental sepsis before radiotherapy significantly increases the risk of osteoradionecrosis of the jaw. Dental panoramic tomography (DPT) will frequently be requested before radiotherapy, but the staging CT already performed has greater sensitivity for the detection of a periapical inflammatory lucency (PIL; Fig 2).1e3 These findings should be clearly communicated so that the patient can undergo necessary dental extrac- tions and/or restorations prior to radiotherapy. Ideally,
+
+key images of the periapical lesions can be saved to the PACS for ease of reference.
+Chronic painless mass, sinus, or ?stula
+
+¡@Chronic low-grade periapical infection progresses slowly, resorbing medullary bone and spreading towards the cortical plate along the path of least resistance. Perforation of the cortex decompresses the periapical sepsis, pain often resolves and the patient may present with a chronic pain- less mass in the submental, submandibular, buccal, or nasal regions or the palate, usually due to a chronic soft-tissue abscess or phlegmon formation, or less commonly due to an expansile periapical (radicular) cyst. Soft-tissue masses will   often   be   clinically   suspected   as   being
+
+
+
+Figure 3 Chronic periapical sinus track presenting as an infected subcutaneous cyst. A 22-year-old man was referred by a plastic surgeon for MRI before the planned excision of a ¡§cyst¡¨ in the right cheek. (a) A coronal T1-weighted image shows an inflammatory sinus track extending from a small PIL (arrow) associated with the lower right first molar (46) apices, passing through the right depressor anguli oris and platysma muscles into the subcutaneous fat and reaching the skin, which is focally thickened and retracted (arrowhead). An oblique sagittal reconstruction in the plane of the right mandibular body, from a volumetric post-gadolinium T1-fat saturated series (b), shows enhancing small periapical gran- ulomata associated with the roots of 46 and the lower right second molar (47) (dotted arrows).
+
+
+
+Figure 4 Chronic subperiosteal periapical abscess presenting as a mass. A 66-year-old woman was referred by a general practitioner (GP) for an ultrasound to investigate a lump at the right side of her nose. (a) Transverse and (b) sagittal ultrasound images show an ovoid fluid collection (arrowheads) overlying the right anterior maxilla, with a breach (arrows) in the labial cortex of the maxillary alveolar bone and a central echogenic focus consistent with a tooth root. (c) DPT was performed and confirmed a poorly defined PIL (dashed arrow) related to the carious upper right canine (13).
+
+
+
+Figure 5 Odontogenic sinusitis in a unilateral ostiomeatal unit pattern. A 62-year-old woman was referred by her GP with a 3-month history of unilateral maxillary sinus pain and pressure not responding to several courses of oral antibiotics or nasal steroid spray. Coronal oblique reconstruction from a sinus CT shows complete opacification of the right maxillary sinus, subtotal opacification of right anterior ethmoid air cells, and moderate mucosal thickening in the right frontal sinuses. The left anterior sinuses were clear. Post-contrast imaging was performed given the unilateral opacification, but no enhancing mass was visible. There is a PIL related to the apices of the upper right second molar (17), with a small focal defect in the adja- cent maxillary sinus floor (arrow). Dehiscence of the sinus floor is not a requisite for diagnosing odontogenic sinusitis and is frequently not present. Unilateral maxillary or anterior group sinusitis should always prompt a search for a dental cause.
+
+
+
+Figure 6 CBCT for subtle periapical pathology. A 36-year-old woman was referred by her dentist for CBCT of the maxilla, for the investi- gation of severe intermittent right posterior maxillary pain. An obli- que sagittal reconstruction from the volumetric CBCT dataset shows subtle widening of the periodontal ligament space (arrow) of the heavily restored upper right second molar (17), which was tender to percussion, as well as widening of the apical foramen and a very subtle small PIL with rarefaction of adjacent bone (dotted arrow).
+
+lymphadenopathy or salivary tumours or subcutaneous cysts (Fig 3) and may be initially investigated with ultra- sound. A close relationship to the jaw and a defect in the cortex may be recognised on ultrasound (Fig 4), and the periapical origin can then be confirmed with DPT, CBCT, or CT.
+¡@The development of a fistula or sinus track from a peri- apical abscess drains the pus, most commonly into the mouth, and less commonly onto the skin. If suppuration extends superior to the buccinator muscle attachment in the maxilla or inferior to the mentalis, mylohyoid or buccinator attachments in the mandible, the sinus drains extra-orally.4 Between these attachments, a sinus will drain intra-orally; the point of drainage depends in part on the length of the root and the position of the apex relative to the muscular attachments.
+
+Odontogenic sinusitis
+
+¡@This under-recognised entity should be actively sought especially in cases of isolated maxillary sinusitis and uni- lateral sinusitis affecting the anterior sinus group (ostio- meatal unit pattern). The causative bacteria are different, deriving from oral flora, and therefore, frequently poly- microbial and anaerobic (a foul-smelling nasal discharge may also be a clue to the diagnosis in the clinical history) and complete treatment requires that the underlying dental sepsis be addressed (Fig 5).5 It is important to recognise that sinusitis may be due to periapical sepsis even if the maxillary sinus floor overlying a periapical lucency remains intact.
+
+Pain
+
+¡@Pain from a periapical abscess may be obviously dental in origin to the clinician, or the dental source of the pain may not be suspected before imaging. Even when suspected, the periapical inflammatory changes may be very subtle on imaging. CBCT is ideally suited to imaging subtle dental pathology because of its high spatial resolution (voxel lengths as small as 0.125 mm, compared to 0.5e0.625 mm for CT) (Fig 6); however, wherever soft-tissue information is required, CT is preferred, as CBCT is limited by very poor soft-tissue contrast resolution.3
+¡@Maxillary and mandibular periapical sepsis may present, respectively, as V2 or V3 painful trigeminal neuropathy. MRI of the brain, skull base, and trigeminal nerves may be requested. When interpreting MRI performed for ¡§trigemi- nal neuralgia¡¨, it is important to review the marrow of the alveolar (tooth-bearing) bone of the maxilla and mandible especially on T1-weighted images (where the loss of signal of normal marrow fat may be observed) and on fat- suppressed T2-weighted or post-gadolinium images, which may reveal small periapical lesions and surrounding marrow oedema (Fig 7).
+
+¡@Referred otalgia has many causes,6 including dental sepsis (Fig 8). Submandibular or parotid sialadenitis or sialolithiasis may be suspected as a cause for the pain. Longstanding low-grade mandibular pain and mild swelling may be due to chronic mandibular osteomyelitis, or acute pain may result from a pathological fracture in the setting of chronic osteomyelitis (Fig 9).
+
+Acute soft-tissue sepsis
+
+¡@In adults, dental disease is now the commonest cause of sepsis involving the deep spaces of the neck accounting for about half of cases.1,7 Pharyngitis and tonsillitis are com- moner causes of deep neck infection in young children.8 The soft-tissue inflammatory changes of deep neck sepsis are cellulitis, phlegmon, or abscess, although frequently com- binations will be present. There may also be lymphadenitis and lymph node abscess formation.1,9e12
+   
+Cellulitis manifests on CT as oedema, with increased volume and density in the deep and subcutaneous fat, reticulation, thickening of the platysma and other facial muscles and the fascial planes, but with ill-defined margins and no enhancement (Fig 10).12
+¡@A phlegmon is a poorly defined enhancing ¡§mass¡¨ of soft tissue, often with small regions of fluid, but without a well- defined enhancing margin (Fig 11).
+¡@An abscess has an enhancing margin and central fluid (although the fluid may be complex, with increased atten- uation). Small abscesses may be confined by the perios- teum, i.e., subperiosteal in location (see Fig 10). Drainage (either surgical or image-guided) is indicated for soft-tissue abscesses, but not for cellulitis; sometimes a phlegmon will require drainage.
+¡@Ludwigs¡¦s angina is severe trans-spatial, necrotising cellulitis, with bilateral involvement of the sublingual and submandibular spaces in addition to the submental space
+
+
+
+
+Figure 7 Periapical inflammation presenting as trigeminal neuralgia. A 64-year-old woman was referred for MRI of her brain skull base and trigeminal nerves by a neurologist with suspected right trigeminal neuralgia in a mandibular (V3) distribution. (a) A T1-weighted coronal image shows loss of normal marrow fat signal in the right mandibular body (double arrow). (b) A T2-weighted fat-saturated coronal image shows oedema in the right submandibular space (asterisk) and involving the right side of the mylohyoid muscle (arrow) and to a lesser extent the sublingual space (arrowhead). A periapical lesion is visible on this view (dotted arrow), with surrounding T2 hyperintense bone marrow oedema.
+(c) The periapical lesion is also shown on a reformatted oblique sagittal reconstruction from a volumetric post-gadolinium fat-saturated T1- weighted sequence (dotted arrow), related to the distal root of the lower right second molar (47). The lesion enhances, consistent with a granuloma. Note also the lack of normal enhancing soft tissues within the pulp chamber of this non-vital tooth (circle) compared to the adjacent teeth and enhancing oedema in the submandibular space (dashed outline). There was no neurovascular conflict or other potential cause for pain in the right V3 distribution.
+
+
+
+
+Figure 8 Periapical lesion presenting with referred otalgia. A 41-year-old man was referred by his GP for a CT of the head, temporal bones, temporomandibular joints (TMJs) and sinuses and radiographs of the cervical spine for investigation of referred left otalgia. The CT showed no skull base, temporal bone, TMJ, or skull base abnormality, but there was mild mucosal thickening in the inferior maxillary sinuses; however, the maxillary sinus floors and maxillary tooth roots were not included in the scanned field of view and the patient was recalled for limited further imaging of the maxillary sinus floors: axial images, on bone (a) and soft-tissue (b) reconstruction algorithms and windows, show an inflam- matory lucency related to both buccal apices of the previously root-filled upper left first molar (26), with dehiscence of the buccal cortex (arrow) and minor adjacent soft-tissue inflammatory change (arrowhead). This was considered the likely cause for referred left otalgia.
+
+
+(Fig 12). It will require drainage of cellulitic fluid with or without pus; airway management is critical, the tongue base being displaced posteriorly by the inflammatory oedema in the floor of mouth, and an urgent tracheotomy may be required.13 Necrotising fasciitis is a rare but recog- nised sequela of Ludwigs¡¦s angina and other deep neck in- fections; it has a poor prognosis and requires extensive debridement of necrotic tissue in addition to drainage of pus. In addition to oedema, fascial thickening, and multi- spatial fluid collections, soft-tissue gas is present in most of the cases of necrotising fasciitis.14,15
+¡@The radiologist needs to be familiar with the deep spaces of the suprahyoid neck to communicate the location
+
+Figure 9 Chronic osteomyelitis complicated by a pathological frac- ture. A 42-year-old man was referred from the emergency depart- ment for DPT because of right mandibular pain on a background of severe dental decay. The DPT shows that most of the remaining teeth are grossly carious and there are multiple small periapical inflam- matory lucencies. There is abnormal patchy mixed lucency and sclerosis of bone in the right mandibular body consistent with oste- omyelitis, with a pathological fracture of the right mandibular body (white arrows).
+
+of an abscess or phlegmon effectively.16 The submandib- ular space is the most commonly involved space by dental sepsis, followed by the masticator space (when trismus is commonly present). The mandibular second and third molars are the teeth most frequently involved by peri- apical and pericoronal sepsis, respectively. The apices of these molars are situated inferior to the mylohyoid line (attachment of mylohyoid) and periapical sepsis can extend into the inferolaterally situated submandibular space (Fig 13). In contrast, if a periapical lesion related to the mandibular first molar or premolars (or further ante- rior teeth) breaches the lingual cortex, this will be above the gradually antero-inferiorly sloping mylohyoid line and therefore extend into the sublingual space, which is situ- ated superomedial to the mylohyoid muscle. Sometimes both spaces will be involved, with myositis of the mylo- hyoid muscle (see Fig 7).
+¡@Soft-tissue sepsis frequently extends into the para- pharyngeal space (which communicates freely with the posterior submandibular and sublingual spaces) with subsequent displacement of the pharyngeal mucosal space, which can lead to narrowing of the oropharyngeal airway (Fig 14). Infection may involve the retropharyngeal or danger spaces with inferior spread into the superior mediastinum. Mediastinitis is reported in 5e7% of cases.7,17
+¡@Vascular complications resulting from infection of the carotid space include thrombophlebitis and arterial nar- rowing.10 Lemierre¡¦s syndrome, septic thrombophlebitis of the internal jugular vein due to the Gram-negative anaerobic bacterium Fusobacterium necrophorum, which may be complicated by septic pulmonary and other emboli and septicaemia, is classically a sequela of phar- yngitis or tonsillitis,18 but may also be seen secondary to
+
+
+
+
+Figure 10 Facial cellulitis and subperiosteal abscess. A 27-year-old woman was referred by her GP with symptoms of left periorbital cellulitis, lip swelling and facial pain and tenderness. Sagittal bone-algorithm reconstruction (a) shows a PIL related to the previously restored upper left central incisor (21). The labial cortex is thin, without a definite defect (arrow). Post-contrast axial soft-algorithm image (b) shows a small overlying subperiosteal abscess (dotted arrow) and mild oedema in the subcutaneous and deep fat of the left cheek (asterisk) and around the muscles of facial expression. Oedema extended to the preseptal orbit (not shown); the post-septal orbit was normal.
+
+
+dental sepsis (Fig 15). This is typically a disease of previ- ously healthy young adults and has a significant mortality rate.
+¡@In the posterior maxilla, periapical sepsis will most commonly spread to the buccal space (see Fig 8), but can also involve the hard palate. Anterior facial and orbital infection may arise from the labial and superior spread of periapical sepsis from maxillary incisors or canines (see Fig 10). Intracranial complications of dental and neck sepsis are rare.1,7
+   
+Most patients with acute soft-tissue sepsis will present through the emergency department with an acute inflam- matory presentation that may include pain, fever, facial swelling, trismus, high dysphagia, and occasionally diffi- culty in breathing. There is a predilection for young to middle-aged males with poor oral hygiene.7 Contrast- enhanced CT of the maxillofacial region and neck with inferior extension to the carina is the optimal imaging investigation. It has a sensitivity of 95e100% in character- ising  neck  infections.7,9  and  12  Thin  bone-algorithm
+
+
+
+
+Figure 11 Phlegmon. A 49-year-old man was referred by his GP for CT of the neck with a history of a hard right submandibular mass, which had been present for 4 weeks, despite two courses of amoxicillin. (a) Axial and (b) coronal reconstruction from a post-contrast neck CT shows a poorly defined enhancing ovoid mass (arrows) in the right submandibular space anterior to the submandibular salivary gland (SMG) and incorporating the platysma. There is overlying cellulitis, with oedema in the subcutaneous fat (asterisk). Bone-algorithm views (not shown) demonstrated a PIL related to the lower right second molar (47) with a defect in the lingual cortex. There was no soft-tissue abscess.
+
+
+
+
+Figure 12 Ludwig¡¦s angina with necrotising fasciitis. A 27-year-old man presented to the emergency department with oral and neck swelling, drooling, fever, and stridor. An intra-oral examination was not possible and post-contrast CT was performed. (a) Sagittal and (b) coronal soft- tissue window reconstructions demonstrate marked oedematous swelling of the tongue, the floor of the mouth, hypopharynx, and larynx with the closure of the upper airway due to the extensive submucosal swelling. Small pockets of fluid containing gas bubbles are seen superior to mylohyoid (arrows in a) with a gas-containing track extending through mylohyoid into the submental space (curved dotted line in (a) and open arrow in (b)). A cropped oblique sagittal, bone-window MIP reconstruction (c) shows extensive recurrent distal caries (dotted arrow) in the lower right first molar (46) with a subtle PIL associated with the distal apex (arrow), which was the causative lesion. Following a tracheotomy, drainage and surgical debridement of the floor of the mouth, and removal of 46, there was gradual resolution of the patients¡¦ signs and symptoms. (d) A DPT performed 9 days before the acute presentation (for right-sided mandibular pain) demonstrated caries in 46; the periapical lucency is subtle on the DPT and was not appreciated at the time.
+
+
+reconstructions, as well as soft-tissue reconstructions, should be performed. Although ideally the radiologist should construct and review multiplanar thin re- constructions, we have found that oblique sagittal bone- algorithm reconstructions in the plane of each mandibular body constructed by the radiographer and sent to PACS may facilitate recognition of the causative dental periapical lesion, which may be small and subtle (see Fig 6). The bony changes of pericoronitis can be absent or very subtle and partially erupted third molars (especially in the mandible) should be regarded with suspicion in the setting of soft- tissue sepsis (Fig 16).
+
+
+Osteomyelitis
+
+¡@Osteomyelitis of the jaws is now uncommon because of widespread early antibiotic use. It is far commoner in the mandible, with its poorer vascular supply, than in the
+
+maxilla. Marrow oedema will be detected earlier with MRI than demineralisation on CT or CBCT. Chronic osteomyelitis is characterised by patchy lucency, sclerotic sequestra, involucra, periosteal reaction, and sinuses, as elsewhere in the skeleton (see Fig 9).3
+
+Systemic disease
+
+¡@Significant bacteraemia related to dental sepsis is most likely to occur following the extraction of a tooth involved by a periapical abscess or advanced periodontal disease. Bacterial endocarditis can result from colonisation of abnormal (congenital or acquired) or prosthetic heart valves. There is also a recognised association between a dental abscess and a subsequent or co-existent pyogenic abscess in the brain, especially in patients with poor oral hygiene. In dental sepsis, endocarditis and cerebral in- fections, oral streptococci predominate. A dental abscess is
+
+
+
+Figure 13 Submandibular abscess due to an endodontic-periodontic inflammatory lesion. A 31-year-old woman was referred for a contrast- enhanced neck CT from the emergency department, where she presented clinically with a submandibular abscess and trismus. (a) Oblique coronal bone-algorithm and (b) soft-tissue algorithm reconstructions show deep caries in the lower left third molar (38) tooth (small asterisk in (a)) extending to the pulp, a large combined endodontic-periodontic lesion surrounding the roots and a defect in the lingual cortex (large arrow). There is subtle lingual periosteal new bone formation (dotted arrow) and medullary sclerosis in the left distal mandibular body. There is a well- defined rim-enhancing fluid collection consistent with an abscess (large asterisk in (b)) in the posterosuperior aspect of the left submandibular space. There is oedema in the left parapharyngeal space (dashed arrow) with mild displacement and narrowing of the adjacent oropharyngeal airway. There is subtle myositis in the medial pterygoid muscle (arrowhead) accounting for the trismus. Thickening of platysma (small arrows) and adjacent subtle stranding in the deep and subcutaneous fat in keeping with mild cellulitis. The submandibular salivary gland (SMG) is displaced inferiorly and there is mild secondary sialadenitis. Adjacent submandibular lymphadenitis was also present (not shown).
+
+
+
+
+Figure 14 Dental sepsis with oedema in the parapharyngeal space. A 37-year-old man was referred from the emergency department for CT. (a) Axial contrast-enhanced CT at the level of the mandibular body shows a subperiosteal abscess (arrow) in the left submandibular space, with cellulitis in the buccal, inferior masticator (large asterisk) and parapharyngeal (small asterisk) spaces. (b) Axial CT at a higher level shows narrowing of the oropharyngeal airway at the retropalatal level (dotted arrow).
+
+
+
+Figure 15 Odontogenic Lemierre¡¦s syndrome. A 28-year-old woman was referred from the intensive care unit for CT of the neck and (subse- quently) CT pulmonary angiography (CTPA) for suspected Lemierre¡¦s syndrome. She had fever, pneumonia, and cervical lymphadenopathy, and blood culture had yielded Fusobacterium necrophorum. (a) Coronal reconstruction of the post-contrast soft-tissue neck CT shows thrombus occluding the left internal jugular vein (IJV) (arrow). (b) An axial image from the CTPA on lung windows shows multifocal consolidation and bilateral pleural effusions. (c) An axial image from the neck CT shows inflammatory thickening of the left carotid space, deep thrombophlebitis within the left pterygoid venous plexus (white dotted arrow) extending into the IJV (dashed arrow), a phlegmon of the carotid space and mild constriction of the left internal carotid artery (open arrow). (d) A sagittal oblique bone-algorithm and bone-window reconstruction from the neck CT shows a periapical inflammatory lucency (arrowhead) related to the decoronated lower left second molar (37). There was no clinical or CT evidence of tonsillitis or pharyngitis, and this periapical lesion was the only potential source of sepsis demonstrated.
+
+
+also a significant risk factor for septicaemia in patients with haematological disorders.19
+¡@Periodontal disease and poor oral hygiene are strongly related to the increasing incidence of peritonsillar abscess in adult patients.20 This condition is one of the more frequent causes of deep neck sepsis after dental infection.7
+
+Conclusion
+
+¡@We have illustrated several of the diverse ways in which periapical inflammation and pericoronitis can present to the radiologist. Patients may be referred by many different practitioners for various imaging techniques, and frequently, the radiologist will be the first to suspect and recognise the underlying dental cause of the presentation. This is especially true of odontogenic sinusitis (where the
+
+clue is often a unilateral ostiomeatal pattern of disease) and ill-defined facial pain or referred otalgia. Once a dental cause is recognised, the patient can be referred appropri- ately to a dental practitioner or maxillofacial surgeon depending on the severity and acuity.
+¡@In the emergency setting, the dental cause of sepsis is usually already suspected but the radiologist will be required to confirm this and identify the offending tooth. The culprit periapical lucency may be small and subtle and there is not always a visible defect in the overlying cortex. Deep space infection may also be due to pericoronitis: apart from an impacted and partially erupted mandibular third molar there may be no other dentoalveolar abnormality on imaging.
+¡@According to a recent review article evaluating the experience in a single tertiary referral centre over the last 35 years, deep neck infections are increasing in incidence.
+
+
+
+
+Figure 16 Masticator space abscess complicating pericoronitis. A 32-year old woman was referred for a CT from the acute medical ward with a history of right facial swelling, elevated white cell count and C-reactive protein, mastoid tenderness, and clinical suspicion of mastoiditis. A background of caries and periodontitis was also noted by the referring clinician, and contrast-enhanced CT of the temporal bones, maxillofacial region, and upper neck was therefore performed. (a) Oblique-sagittal thin bone algorithm reconstruction of the right hemi-mandible showing mild scalloping and irregularity of bone distal to the crown of the partially erupted lower right third molar (48). There is also mild generalised horizontal alveolar bone loss, but no periapical lucency was identified. (b) A coronal soft-tissue algorithm reconstruction shows an abscess (arrows), which extends superiorly into the insertion of the right temporalis muscle.
+
+
+The great majority of the patients have a dental cause for sepsis, or poor oral hygiene and significant dental disease. Imaging plays a vital role in assessing the extent and severity of disease as well as complications, which are not evident on clinical examination.21 In addition to the dentition, vital review areas for the radiologist evaluating CT of a patent with deep neck infection include the upper airway, the adjacent neck vessels, and the superior mediastinum.
+
+Conflict of interest
+
+The authors declare no conflict of interest.
+
+Acknowledgements
+¡@The authors thank their fellow radiologists at Perth Radiological Clinic for sharing interesting cases.
+
+References
+1. Chapman MN, Nadgir RN, Akman AS, et al. Periapical lucency around the tooth: radiologic evaluation and differential diagnosis. RadioGraphics 2013;33:E15e32.
+2. MacDonald D. Lesions of the jaws presenting as radiolucencies on cone- beam CT. Clin Radiol 2016;71:972e85.
+3. Boeddinghaus R, Whyte A. Trends in maxillofacial imaging. Clin Radiol
+2018;73:4e18.
+4. Sammut S, Malden N, Lopes V. Facial cutaneous sinuses of dental origin
+d a diagnostic challenge. Br Dental J 2013;215:555e8.
+5. Whyte A, Boeddinghaus R. Imaging of odontogenic sinusitis. Clin Radiol
+2019;74:503e16.
+6. 
+Chen RC, Khorsandi AS, Shatzkes DR, et al. The radiology of referred otalgia. AJNR Am J Neuroradiol 2009;30:1817e23.
+7. Bakir S, Tanriverdi H, Gu£án R, et al. Deep neck space infections: a retro-
+spective review of 173 cases. Am J Otolaryngol 2012;33:56e63.
+8. Ho M-L, Courtier J, Glastonbury CM. The ABCs (airway, blood vessels, and compartments) of pediatric neck infections and masses. AJR Am J Roentgenol 2016;206:963e72.
+9. Wabick A, Hendrich BK, Nienartowicz J, et al. Odontogenic inflammatory processes of the head and neck in computed tomography examinations. Pol J Radiol 2014;79:431e8.
+10. Maroldi R, Farina D, Ravanelli M, et al. Emergency imaging assessment of deep neck space infections. Semin Ultrasound CT MRI 2010;33:432e42.
+11. Gonzalez-Beicos A, Nunez D. Imaging of acute head and neck infections.
+Radiol Clin North Am 2012;50:73e83.
+12. Bou-Assaly W, Mckellop J, Mukherji S. Computed tomography im- aging of acute neck inflammatory processes. World J Radiol 2010;2:91e6.
+13. McDonnough JA, Ladzekpo DA, Yi I, et al. Epidemiology and resource utilization of Ludwig¡¦s angina ED visits in the United States 2006e2014. Laryngoscope 2019;129:2041e4.
+14. Chueng K, Clinkard DJ, Enepekides D, et al. An unusual presentation of Ludwig¡¦s angina complicated by cervical necrotizing fasciitis: a case report and review of the literature. Case Rep Otolaryngol 2012;2012:931350. https://doi.org/10.1155/2012/931350.
+15. Gunaratne DA, Tseros EA, Hasan Z, et al. Cervical necrotizing fasciitis: systematic review and analysis of 1235 reported cases from the litera- ture. Head Neck 2018;40:2094e102.
+16. Warshafsky D, Goldenberg D, Kanekar SG. Imaging anatomy of deep neck spaces. Otolaryngol Clin N Am 2012;45:1203e21.
+17. Kinzer S, Pfeiffer J, Becker S, et al. Severe deep neck space infections and mediastinitis of odontogenic origin: clinical relevance and implications for diagnosis and treatment. Acta Otolaryngol 2009;129:62e70.
+18. Karkos PD, Asrani S, Karkos CD, et al. Lemierre¡¦s syndrome: a systematic review. Laryngoscope 2009;119:1552e9.
+19. Parahitiyawa NB, Lin LJ, Leung WK, et al. Microbiology of odonto- genic bacteremia: beyond endocarditis. Clin Microbiol Rev 2009;22:46e64.
+
+
+20. Powell EL, Powell J, Samuel JR, et al. A review of the pathogenesis of adult peritonsillar abscess: time for a re-evaluation. J Antimicrob Che- mother 2013;68:1941e50.
+
+
+21. Velhonoja J, L£áaa£áveri M, Soukka T, et al. Deep neck space infections: an upward trend and changing characteristics. Eur Arch Otorhinolaryngol 2020;277:863e72.
+
+
+
+
+
+
